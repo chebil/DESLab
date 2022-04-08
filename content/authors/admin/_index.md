@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mohamed Ben Aouicha
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate professor in computer science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Sfax University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,6 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Unit head
   - Researchers
 ---
 
