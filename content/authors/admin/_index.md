@@ -14,24 +14,28 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests concern information retrieval, semantic technologies, social media, knowledge representation, Big Data and graph embedding.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
+  - knowledge representation
+  - semantic technologies
+  - graph embedding
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: HDR in Computer Science
+      institution: Sfax University
+      year: 2014
+    - course: PhD in Computer Science
+      institution: Paul Sabatier University of Toulouse
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc in Computer Science
+      institution: Sfax University
+      year: 2004
+    - course: BSc in Computer Science
+      institution: Sfax University
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:mohamed.benaouicha@fss.usf.tn'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.fr/citations?user=XPVUu-gAAAAJ&hl=fr
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mohamed.benaouicha@fss.usf.tn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,9 +70,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Unit head
-  - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mohamed Ben Aouicha received the MSc from the Faculty of Sciences of Sfax, Master degree from the National School of the Engineers of Sfax (NSES) in Tunisia. He obtained the doctorate degree from the University Paul Sabatier of Toulouse (France) / National School of the Engineers at the Sfax university of Tunisia in January 2009, he obtained HDR (Habilitation for Supervising Research activities) diploma in computer systems engineering from NSES. Currently, he is associate professor at the Faculty of Sciences of Sfax. His research interests concern information retrieval, semantic technologies, social media, knowledge representation, Big Data and graph embedding. He is the head of the Data Engineering and Semantics Research Unit at the Faculty of Sciences of Sfax.
+<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
