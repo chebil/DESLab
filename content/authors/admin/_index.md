@@ -25,16 +25,16 @@ interests:
 education:
   courses:
     - course: HDR in Computer Science
-      institution: Sfax University
-      year: 2014
+      institution: University of Sfax
+      year: 2016
     - course: PhD in Computer Science
       institution: Paul Sabatier University of Toulouse
       year: 2009
     - course: Msc in Computer Science
-      institution: Sfax University
+      institution: University of Sfax
       year: 2004
     - course: BSc in Computer Science
-      institution: Sfax University
+      institution: University of Sfax
       year: 2002
 
 # Social/Academic Networking
@@ -72,6 +72,6 @@ user_groups:
   - Unit head
 ---
 
-Mohamed Ben Aouicha received the MSc from the Faculty of Sciences of Sfax, Master degree from the National School of the Engineers of Sfax (NSES) in Tunisia. He obtained the doctorate degree from the University Paul Sabatier of Toulouse (France) / National School of the Engineers at the Sfax university of Tunisia in January 2009, he obtained HDR (Habilitation for Supervising Research activities) diploma in computer systems engineering from NSES. Currently, he is associate professor at the Faculty of Sciences of Sfax. His research interests concern information retrieval, semantic technologies, social media, knowledge representation, Big Data and graph embedding. He is the head of the Data Engineering and Semantics Research Unit at the Faculty of Sciences of Sfax.
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Mohamed Ben Aouicha received the MSc from the Faculty of Sciences of Sfax, Master degree from the National School of the Engineers of Sfax (NSES) in Tunisia. He obtained the doctorate degree from the University Paul Sabatier of Toulouse (France) / National School of the Engineers at the Sfax university of Tunisia in January 2009, he obtained HDR (Habilitation for Supervising Research activities) diploma in computer systems engineering from NSES. Currently, he is associate professor at the Faculty of Sciences of Sfax. His research interests concern information retrieval, semantic technologies, social media, knowledge representation, Big Data and graph embedding
+
 
