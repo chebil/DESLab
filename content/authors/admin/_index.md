@@ -10,7 +10,7 @@ role: Associate professor in computer science
 
 # Organizations/Affiliations
 organizations:
-  - name: Sfax University
+  - name: University of Sfax 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
