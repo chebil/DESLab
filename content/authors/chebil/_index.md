@@ -28,13 +28,13 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Sfax University
+      institution: University of Sfax
       year: 2016
     - course: Msc in Computer Science
       institution: Gabes University
       year: 2009
     - course: BSc in Computer Science
-      institution: Sfax University
+      institution: University of Sfax
       year: 2006
 
 # Social/Academic Networking
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'khalil.chebil@insat.u-carthage.t'
+email: 'khalil.chebil@insat.u-carthage.tn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
