@@ -15,18 +15,4 @@ design:
   css_style: "text-align: center;"
   css_class:
 ---
-
-
   The **Data Engineering and Semantics Research Unit** was created in 2021 as a structure for the coordination and proliferation of research works about intelligent systems driven by knowledge resources. The Unit's mission is to develop computer applications for automating several interesting tasks in multiple areas of interest.
-
-<!-- {{% cta cta_link="./people/" cta_text="Meet the team →" %}} -->
-
-<!-- <div class="row">
-  <div class="col-md-8" markdown="1">
-
-  </div>
-  <div class="col-md-4" markdown="1">
-
-  ![Data Center](serv.jpg)
-  </div>
-</div> -->
