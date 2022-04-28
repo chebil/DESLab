@@ -1,0 +1,25 @@
+---
+title: Developing intuitive and explainable algorithms through inspiration from
+  human physiology and computational biology
+publication_types:
+  - "2"
+authors:
+  - turki
+  - admin
+  - medali
+doi: https://doi.org/10.1093/bib/bbab081
+abstract: In this letter, we explain how intuitive and explainable methods
+  inspired from human physiology and computational biology can serve to simplify
+  and ameliorate the way we process and generate knowledge resources.
+draft: false
+featured: false
+tags:
+  - Explainable Artificial Intelligence
+  - Computational Biology
+  - Biomedical Informatics
+image:
+  filename: ""
+  focal_point: Smart
+  preview_only: false
+date: 2022-04-28T15:02:14.020Z
+---
