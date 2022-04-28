@@ -3,6 +3,7 @@ title: 'How Knowledge-Driven Class Generalization Affects Classical Machine Lear
 authors:
   - admin
   - turki
+  - medali
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'

@@ -51,9 +51,18 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.fr/citations?user=XPVUu-gAAAAJ&hl=fr
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mohamedbenaouicha
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mohamed-ben-aouicha-b49620130/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Mohamed-Ben-Aouicha
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-2277-5814
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -2,6 +2,7 @@
 title: 'Cross-network representation learning for anchor users on multiplex heterogeneous social network'
 authors:
   - admin
+  - medali
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
