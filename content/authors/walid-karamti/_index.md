@@ -1,7 +1,6 @@
 ---
 title: Walid Karamti
 role: ِAssistant Professor
-avatar_filename: avatar.jpg
 bio: My research interests include formal methods for the analysis of behaviors
   in real time systems and social networks.
 social: []
@@ -9,6 +8,38 @@ organizations:
   - name: Department of Computer Science, College of Computer, Qassim University,
       Buraydah, Saudi Arabia
 email: walid.karamti@yahoo.fr
+interests:
+  - Formal Methods
+  - Real-Time Scheduling analysis
+  - Social Networks behaviors analysis
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: University of Sfax
+      year: 2015
+    - course: Msc in Computer Science
+      institution: University of Sfax
+      year: 2010
+    - course: BSc in Computer Science
+      institution: University of Sfax
+      year: 2008
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:walid.karamti@yahoo.fr'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://tn.linkedin.com/in/walid-karamti-2b172b47
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.fr/citations?user=dDE5it0AAAAJ&hl=fr
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Walid-Karamti
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-2650-1703
+
 superuser: false
 user_groups:
   - Researchers
