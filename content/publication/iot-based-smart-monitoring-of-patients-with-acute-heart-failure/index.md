@@ -33,4 +33,11 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-05-05T23:56:47.136Z
+tags:
+  - IoT
+  - Smart healthcare
+  - Patient's mortality prediction
+  - Deep learning
+  - Heart disease
+url_pdf: https://www.mdpi.com/1424-8220/22/7/2431/pdf?version=1648086949
 ---
