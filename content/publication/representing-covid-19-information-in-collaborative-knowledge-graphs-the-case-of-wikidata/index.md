@@ -33,5 +33,7 @@ image:
   preview_only: false
   caption: Public health surveillance, Wikidata, Knowledge graph, COVID-19,
     SPARQL, Community curation, FAIR data, Linked Open Data
-date: 2022-05-06T23:11:33.936Z
+date: 2022-02-03T23:11:33.936Z
+url_pdf: https://content.iospress.com/articles/semantic-web/sw210444
+
 ---
