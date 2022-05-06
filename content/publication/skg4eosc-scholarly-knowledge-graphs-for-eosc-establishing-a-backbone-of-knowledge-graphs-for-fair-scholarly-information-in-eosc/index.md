@@ -46,5 +46,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-05-06T23:28:15.384Z
+date: 2022-03-15T23:28:15.384Z
+url_pdf: https://riojournal.com/article/83789/download/pdf/
 ---
