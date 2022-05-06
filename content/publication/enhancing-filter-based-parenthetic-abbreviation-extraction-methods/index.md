@@ -25,5 +25,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-05-06T00:09:56.235Z
+date: 2020-12-22T00:09:56.235Z
+url_pdf: https://academic.oup.com/jamia/article-pdf/28/3/668/36428818/ocaa314.pdf
 ---

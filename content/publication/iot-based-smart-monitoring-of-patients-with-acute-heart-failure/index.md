@@ -32,7 +32,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-05-05T23:56:47.136Z
+date: 2022-03-22T23:56:47.136Z
 tags:
   - IoT
   - Smart healthcare
