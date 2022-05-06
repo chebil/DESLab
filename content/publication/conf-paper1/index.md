@@ -18,9 +18,9 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
   - turki
   - medali
+  - admin
 url_dataset: ""
 url_project: ""
 publication_short: ""

@@ -5,8 +5,8 @@ publication_types:
   - "2"
 authors:
   - turki
-  - admin
   - medali
+  - admin
 doi: https://doi.org/10.1093/bib/bbab081
 abstract: In this letter, we explain how intuitive and explainable methods
   inspired from human physiology and computational biology can serve to simplify
