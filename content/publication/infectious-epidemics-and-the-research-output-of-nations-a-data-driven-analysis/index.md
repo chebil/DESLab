@@ -38,5 +38,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-05-06T00:21:48.842Z
+date: 2021-04-09T00:21:48.842Z
+url_pdf: https://www.researchgate.net/profile/Houcemeddine-Turki/publication/350769312_Infectious_epidemics_and_the_research_output_of_nations_A_data-driven_analysis/links/6076d5eaf41f751f3235efe0/Infectious-epidemics-and-the-research-output-of-nations-A-data-driven-analysis.pdf
+
 ---
