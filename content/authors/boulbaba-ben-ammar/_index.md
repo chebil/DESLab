@@ -1,9 +1,14 @@
 ---
 title: Boulbaba Ben Ammar
 role: Assistant Professor
-avatar_filename: avatar.jpg
-bio: Boulbaba Ben Ammar is an Assistant Professor at the Computer Science
-  Department, University of Sfax, Tunisia.
+bio: Boulbaba Ben Ammar is an Assistant Professor at the Computer Science Department, University of Sfax, Tunisia.
+# Organizations/Affiliations
+organizations:
+  - name: University of Sfax
+    url: ''
+# Username (this should match the folder name)
+authors:
+  - boulbaba
 interests:
   - MLOps
   - Artificial Intelligence
@@ -44,7 +49,7 @@ social:
 email: Boulbaba.BenAmmar@fss.usf.tn
 superuser: false
 user_groups:
-  - -Researchers
+  - Researchers
 ---
 <!--StartFragment-->
 
