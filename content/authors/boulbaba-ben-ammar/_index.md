@@ -8,7 +8,7 @@ organizations:
     url: ''
 # Username (this should match the folder name)
 authors:
-  - boulbaba
+  - boulbaba-ben-ammar
 interests:
   - MLOps
   - Artificial Intelligence

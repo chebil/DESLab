@@ -4,7 +4,7 @@ title: Prediction of COVID-19 Active Cases Using Polynomial Regression and ARIMA
 publication_types:
   - "1"
 authors:
-  - boulbaba
+  - boulbaba-ben-ammar
 doi: http://dx.doi.org/10.1007/978-3-030-96308-8_125
 abstract: The fast spread of Covid-19 or the novel Coronavirus in the world has
   influenced it and caused a huge number of deaths. This remains a disastrous
