@@ -11,7 +11,36 @@ interests:
   - Data Analysis and visualisation
   - Machine learning
   - Deep learning
-social: []
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: University of Sfax
+      year: 2012
+    - course: Msc in Computer Science
+      institution: Lorraine University, France
+      year: 2004
+    - course: BSc in Computer Science
+      institution: University of Sfax
+      year: 2003
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:Boulbaba.BenAmmar@fss.usf.tn'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/boulbaba-ben-ammar-%D8%A8%D9%88%D9%84%D8%A8%D8%A7%D8%A8%D8%A9-%D8%A8%D9%86%D8%B9%D9%85%D8%A7%D8%B1-7340a66a/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=rsX7bfAAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/boulbaba1981
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Boulbaba-Ben-Ammar
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/ 0000-0002-5718-4723
 email: Boulbaba.BenAmmar@fss.usf.tn
 superuser: false
 user_groups:
