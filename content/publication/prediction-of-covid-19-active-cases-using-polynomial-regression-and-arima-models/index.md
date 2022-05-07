@@ -31,4 +31,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-12-11T18:13:40.354Z
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-96308-8_125
 ---
