@@ -34,8 +34,8 @@ In this themed article collection, we are keen to include original research, opi
 
 ## Submission Deadlines
 
-| **06 June 2022**   | Abstract   |
-| ------------------ | ---------- |
-| **05 August 2022** | Manuscript |
+| Abstract   |  **06 June 2022**  |
+| ---------- | ------------------ |
+| Manuscript | **05 August 2022** |
 
 <!--EndFragment-->
