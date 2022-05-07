@@ -32,6 +32,8 @@ In this themed article collection, we are keen to include original research, opi
 
 **Important Note**: All contributions to this Research Topic must be within the scope of the section and journal to which they are submitted, as defined in their mission statements. Frontiers reserves the right to guide an out-of-scope manuscript to a more suitable section or journal at any stage of peer review.
 
+## [Click here to contribute](https://www.frontiersin.org/research-topics/34449)
+
 ## Submission Deadlines
 
 | Abstract   |  **06 June 2022**  |
