@@ -14,13 +14,15 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests concern information retrieval, semantic technologies, social media, knowledge representation, Big Data and graph embedding.
+bio: My research interests concern information retrieval, semantic technologies, social media analytics, knowledge representation, Big Data and graph embedding.
 
 interests:
   - Information Retrieval
-  - knowledge representation
-  - semantic technologies
-  - graph embedding
+  - Knowledge representation
+  - Semantic technologies
+  - Social media analytics
+  - Big Data
+  - Graph embedding
 
 education:
   courses:
@@ -82,5 +84,3 @@ user_groups:
 ---
 
 Mohamed Ben Aouicha received the MSc from the Faculty of Sciences of Sfax, Master degree from the National School of the Engineers of Sfax (NSES) in Tunisia. He obtained the doctorate degree from the University Paul Sabatier of Toulouse (France) / National School of the Engineers at the Sfax university of Tunisia in January 2009, he obtained HDR (Habilitation for Supervising Research activities) diploma in computer systems engineering from NSES. Currently, he is associate professor at the Faculty of Sciences of Sfax. His research interests concern information retrieval, semantic technologies, social media, knowledge representation, Big Data and graph embedding
-
-
