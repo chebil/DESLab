@@ -1,6 +1,8 @@
 ---
 title: Mahdi Khemakhem
 role: Associate Professor in computer science
+authors:
+  - mahdi-khemakhem
 organizations:
   - name: ENET'COM - University of Sfax
     url: 'https://enetcom.rnu.tn/'
