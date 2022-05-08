@@ -24,11 +24,11 @@ education:
       institution: University of Sfax
       year: 2016
     - course: PhD in Computer Science
-      institution: Paul Sabatier University of Toulouse
-      year: 2009
+      institution: University of Valenciennes UVHC (France)
+      year: 2008
     - course: Msc in Computer Science
-      institution: University of Sfax
-      year: 2004
+      institution: University of Valenciennes UVHC (France)
+      year: 2003
     - course: BSc in Computer Science
       institution: University of Sfax
       year: 2002
