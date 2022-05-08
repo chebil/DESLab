@@ -6,9 +6,14 @@ authors:
 bio: My main fields of interest include Virtualization, Cloud Computing, Internet of Things, with a current focus on dynamic allocation and management
   of virtualized compute and network resources.
 interests:
-  - Virtualization
-  - Cloud Computing
-  - Internet of Things
+  - Virtualisation
+  - Cloud Computing 
+  - Big data
+  - Microservices Architectures
+  - Docker
+  - Fog Computing
+  - IoT
+  - System and Network Administration
 email: kallel.ameni@gmail.com
 social:
   - icon: envelope
