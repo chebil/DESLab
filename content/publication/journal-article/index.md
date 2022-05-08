@@ -1,6 +1,7 @@
 ---
 title: 'Hybrid-based framework for COVID-19 prediction via federated machine learning models'
 authors:
+  - ameni-kallel-chaari
   - rekik
   - mahdi-khemakhem
 # author_notes:
