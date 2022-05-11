@@ -1,10 +1,28 @@
 ---
 title: Adel Mahfoudhi
 role: Professor
-avatar_filename: avatar.jpg
+authors:
+  - adel-mahfoudhi
 bio: My research interests include formal methods for Embedded Real Time System
   modeling, verification and Human Computer interaction, Cyber Security.
-social: []
+interests:
+  - Human Computer Interaction
+  - Formal Methods
+  - Embedded Real Time System
+  - Cyber Security
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:adel.mahfoudhi@fss.rnu.tn'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=pJbO56gAAAAJ&view_op=list_works&sortby=pubdate
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Adel-Mahfoudhi
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-9522-8099
 organizations:
   - name: University of Sfax
 education:
