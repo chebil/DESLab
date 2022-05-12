@@ -1,6 +1,8 @@
 ---
 title: Walid AYEDI
 role: Assistant professor in computer science
+authors:
+  -walid-ayedi
 avatar_filename: avatar.png
 bio: Walid AYEDI received the Ph.D. degree in Computer Science from the National
   School of the Engineers of Sfax, Tunisia in November 2012. He is assistant
@@ -10,7 +12,10 @@ interests:
   - image analysis
   - computer vision
   - artificial intelligence
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ayediwalid@yahoo.fr'
 organizations:
   - name: Faculty of Medicine of Sfax
 education:

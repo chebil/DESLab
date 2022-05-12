@@ -1,6 +1,8 @@
 ---
 title: Abdelwaheb Mohammed Trabelsi
 role: Assistant Professor
+authors:
+  -abdelwaheb-mohammed-trabelsi
 avatar_filename: avatar.jpg
 bio: "My research interests include: human computer interaction, software
   engineering for interactive system design and evaluation, graphical user
@@ -10,7 +12,22 @@ interests:
   - Scuba diving
   - Arduino project
   - Kids animation
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:abdelwaheb@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=SSnLUaUAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/abdelwaheb-trabelsi-526a242/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Trabelsi-Abdelwaheb
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1416-6867
 organizations:
   - name: "Saudi Electronic University (SEU) - Faculty of Sciences Sfax (FSS) "
 education:

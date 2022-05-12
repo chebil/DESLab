@@ -23,6 +23,6 @@ design:
 || 
 :--:|:--:|:--:|:--:|:--:|:--:
 ![](wikimedia.svg)  | ![](virginia.png)| ![](bern.png)| ![](pretoria.png) | ![](uned.jpg)| ![](obuda.png)
-![](mir.jpg)  | ![](milan.jpg)| ![](nui.jpg)| ![](basque.png) | ![](havre.png)| ![](lis.png)
+![](mir.jpg)| ![](milan.jpg)| ![](nui.jpg)| ![](basque.png) | ![](havre.png)| ![](lis.png)
 ![](world.png)  |![](kaist.png)| ![](minds.jpg)| ![](UDE.svg)| ![](fab.png)| ![](tech.png)
-![](intel.png)  |![](phoenix.jpg)| ![](sifast.svg)| ![](jumia.jpg)| ![](spark.png)
+![](intel.png)  |![](phoenix.jpg)| ![](sifast.svg)| ![](jumia.jpg)| ![](spark.png)| ![](inel.png)
