@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DES Research Unit</title><link>https://deslab.org/post/</link><atom:link href="https://deslab.org/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 07:00:52 +0000</lastBuildDate><image><url>https://deslab.org/media/logo_hu38ee6a744ccbfc031b9ab908dce502fd_20106_300x300_fit_lanczos_3.png</url><title>Latest News</title><link>https://deslab.org/post/</link></image><item><title>Amina Amara PhD thesis defense</title><link>https://deslab.org/post/amina-amara-phd-thesis-defense/</link><pubDate>Fri, 13 May 2022 07:00:52 +0000</pubDate><guid>https://deslab.org/post/amina-amara-phd-thesis-defense/</guid><description>&lt;p>&lt;strong>Title:&lt;/strong> A deep learning-based approach for anchor user modeling across online social networks under a big data environment.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cross-social networks analytics | DES Research Unit</title><link>https://deslab.org/tag/cross-social-networks-analytics/</link><atom:link href="https://deslab.org/tag/cross-social-networks-analytics/index.xml" rel="self" type="application/rss+xml"/><description>Cross-social networks analytics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 07:00:52 +0000</lastBuildDate><image><url>https://deslab.org/media/logo_hu38ee6a744ccbfc031b9ab908dce502fd_20106_300x300_fit_lanczos_3.png</url><title>Cross-social networks analytics</title><link>https://deslab.org/tag/cross-social-networks-analytics/</link></image><item><title>Amina Amara PhD thesis defense</title><link>https://deslab.org/post/amina-amara-phd-thesis-defense/</link><pubDate>Fri, 13 May 2022 07:00:52 +0000</pubDate><guid>https://deslab.org/post/amina-amara-phd-thesis-defense/</guid><description>&lt;p>&lt;strong>Title:&lt;/strong> A deep learning-based approach for anchor user modeling across online social networks under a big data environment.&lt;/p>
 &lt;p>&lt;strong>Supervisors:&lt;/strong> Mohamed BEN AOUICHA &amp;amp; Mohamed Ali HADJ TAEIB &amp;quot;&lt;/p>
 &lt;p>&lt;strong>Defense Date:&lt;/strong> 26 may 2022&lt;/p>
 &lt;p>An accurate and comprehensive user modeling has been proven
@@ -63,27 +63,4 @@ Experiments have been conducted on real-world social networks dataset and the
 experimental results demonstrate that the proposed model with all three
 variants can significantly outperform the existing approaches of network
 representation learning when it is applied on link prediction task and also
-achieves better performance over all compared baselines.&lt;/p></description></item><item><title>Call for contribution to the research topic: Linked Open Bibliographic Data for Real-time Research Assessment</title><link>https://deslab.org/post/call-for-contribution-to-the-research-topic-linked-open-bibliographic-data-for-real-time-research-assessment/</link><pubDate>Sat, 07 May 2022 09:53:27 +0000</pubDate><guid>https://deslab.org/post/call-for-contribution-to-the-research-topic-linked-open-bibliographic-data-for-real-time-research-assessment/</guid><description>&lt;!--StartFragment-->
-&lt;p>Currently, large databases of open bibliographic metadata have been created and made available online in the age of open science. These resources are easily findable, accessible, interoperable, and reusable thanks to their online hosting and their representation as RDF (Resource Description Framework) knowledge graphs, and could be easily aligned together thanks to a set of unique identifiers such as ORCID ID, Wikidata ID, and DOI. The integration of heterogeneous bibliographic data such as author information (e.g., ORCID and DBLP), citations (e.g., OpenCitations and Crossref), research findings (e.g., ORKG), and the semantic knowledge about prizes, countries, research venues, publications and institutions (e.g., Wikidata) can be useful to develop high-level interpretations for the research assessment of entities.&lt;br>
-&lt;br>
-The structured format of RDF knowledge graphs can allow the automatic generation of real-time research evaluation outputs through the use of programming tools (e.g., APIs) and query services (e.g., SPARQL) as well as the enrichment and validation of bibliographic information through the use of machine learning, logical constraints, bibliometric-enhanced information retrieval, and shape expressions.&lt;br>
-&lt;br>
-In this themed article collection, we are keen to include original research, opinions, and application notes about the use of linked open bibliographic data for supporting timely research evaluation.&lt;/p>
-&lt;p>&lt;strong>Important Note&lt;/strong>: All contributions to this Research Topic must be within the scope of the section and journal to which they are submitted, as defined in their mission statements. Frontiers reserves the right to guide an out-of-scope manuscript to a more suitable section or journal at any stage of peer review.&lt;/p>
-&lt;h2 id="click-here-to-contributehttpswwwfrontiersinorgresearch-topics34449">&lt;a href="https://www.frontiersin.org/research-topics/34449" target="_blank" rel="noopener">Click here to contribute&lt;/a>&lt;/h2>
-&lt;h2 id="submission-deadlines">Submission Deadlines&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Abstract&lt;/th>
-&lt;th>&lt;strong>06 June 2022&lt;/strong>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Manuscript&lt;/td>
-&lt;td>&lt;strong>05 August 2022&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;!--EndFragment--></description></item></channel></rss>
+achieves better performance over all compared baselines.&lt;/p></description></item></channel></rss>

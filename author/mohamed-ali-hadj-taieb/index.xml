@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mohamed Ali Hadj Taieb | DES Research Unit</title><link>https://deslab.org/author/mohamed-ali-hadj-taieb/</link><atom:link href="https://deslab.org/author/mohamed-ali-hadj-taieb/index.xml" rel="self" type="application/rss+xml"/><description>Mohamed Ali Hadj Taieb</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 09:53:27 +0000</lastBuildDate><image><url>https://deslab.org/author/mohamed-ali-hadj-taieb/avatar_huad865134203aa53df4cd61fb395d6a0e_34483_270x270_fill_q75_lanczos_center.jpg</url><title>Mohamed Ali Hadj Taieb</title><link>https://deslab.org/author/mohamed-ali-hadj-taieb/</link></image><item><title>Call for contribution to the research topic: Linked Open Bibliographic Data for Real-time Research Assessment</title><link>https://deslab.org/post/call-for-contribution-to-the-research-topic-linked-open-bibliographic-data-for-real-time-research-assessment/</link><pubDate>Sat, 07 May 2022 09:53:27 +0000</pubDate><guid>https://deslab.org/post/call-for-contribution-to-the-research-topic-linked-open-bibliographic-data-for-real-time-research-assessment/</guid><description>&lt;!--StartFragment-->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mohamed Ali Hadj Taieb | DES Research Unit</title><link>https://deslab.org/author/mohamed-ali-hadj-taieb/</link><atom:link href="https://deslab.org/author/mohamed-ali-hadj-taieb/index.xml" rel="self" type="application/rss+xml"/><description>Mohamed Ali Hadj Taieb</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 07:00:52 +0000</lastBuildDate><image><url>https://deslab.org/author/mohamed-ali-hadj-taieb/avatar_huad865134203aa53df4cd61fb395d6a0e_34483_270x270_fill_q75_lanczos_center.jpg</url><title>Mohamed Ali Hadj Taieb</title><link>https://deslab.org/author/mohamed-ali-hadj-taieb/</link></image><item><title>Amina Amara PhD thesis defense</title><link>https://deslab.org/post/amina-amara-phd-thesis-defense/</link><pubDate>Fri, 13 May 2022 07:00:52 +0000</pubDate><guid>https://deslab.org/post/amina-amara-phd-thesis-defense/</guid><description>&lt;p>&lt;strong>Title:&lt;/strong> A deep learning-based approach for anchor user modeling across online social networks under a big data environment.&lt;/p>
+&lt;p>&lt;strong>Supervisors:&lt;/strong> Mohamed BEN AOUICHA &amp;amp; Mohamed Ali HADJ TAEIB &amp;quot;&lt;/p>
+&lt;p>&lt;strong>Defense Date:&lt;/strong> 26 may 2022&lt;/p>
+&lt;p>An accurate and comprehensive user modeling has been proven
+fundamental for many personalized social media-based services including link
+prediction and recommendation systems. A major challenge lies in that data
+available in a single online social network are usually very limited and
+sparse. Depending on the purpose for which an online social platform is
+designed, each platform offers only a partial view of a user from a particular
+perspective. Therefore, users are usually involved in several online social
+networks simultaneously to enjoy specific services provided by different
+networks, thus bringing about the interconnection of online social networks
+via bridge users called anchor users. Accordingly, a comprehensive anchor user
+modeling requires taking into account the user’s social data scattered through
+several social networking platforms. However, online social networks are
+completely isolated. In this respect, the present research work aims to build
+a holistic and comprehensive anchor user model from his data distributed over
+multiple social information sources and thus serve for enhancing the quality
+of personalized social media-based services. For this reason, we first study
+different aspects related to the target social networking platforms selected
+in this dissertation including covered functionalities, data heterogeneity,
+and data accessibility. The study reveals also that the major challenge
+towards anchor user modeling is linking user’s identities across online social
+networks. Moreover, recent trend to solve the user modeling problem is to
+leverage network embedding techniques and build embedding vectors
+corresponding to user nodes in the social network. Thereby, this thesis
+firstly presents a detailed survey of more recent network embedding based
+approaches. Then, the problem of anchor user identification across social
+platforms is addressed by providing a feature-based approach exploiting
+various similarity measures. Indeed, the proposed algorithm leverages the
+profile information (i.e. the user’s name) with the network properties (i.e.
+friendship network) to compute the matching degree between the two user’s
+identities pertaining to two different social networks and then the obtained
+result is compared to a predefined threshold value to decide whether the two
+profiles pertain to the same real person or not. Several similarity measures
+are tested including Jaccard Index, Hub Promoted Index, Hub Depressed Index,
+and Sørenson Index. Experimental results conducted on two real-world datasets,
+collected from Facebook and Twitter social networks, showed that the Jaccard
+Index outperforms all other measures with a threshold value δ = 0.03. In
+addition, as social networks stand as typical sources of big data, a BIGUI
+(BIG User Identification) architecture for anchor users storing and processing
+is designed. The provided architecture is built on the basis of a set of
+adequate technologies in conformity with the social big graph data pipeline to
+cope with online social network-associated big data challenges. Thereafter,
+the next step consists on building an anchor user model encoding diverse
+network structures of the given user, i.e. intra-network and cross-network
+features. In this regard, the OVRAU model (Overall low-dimensional Vector
+Representation for Anchor Users) is implemented to learn an overall
+low-dimensional representation for modeling anchor users, from a multiplex
+heterogeneous social network, by investigating the intra-network as well as
+cross-network structural information. Unlike existing works, the proposed
+model considers the multi-network scenarios to capture diverse network
+structures of anchor users. For this reason, OVRAU model includes two types of
+embeddings for each anchor user: one high-dimensional base embedding and a
+low-dimensional social edge embedding for each social network. In particular,
+the model learns a function that generates social edge embeddings by sampling
+and aggregating structural features from an anchor user&amp;rsquo;s neighborhood inside
+different social networks, through one of three candidate functions of
+aggregation, namely mean aggregator, max-pooling aggregator, and LSTM
+aggregator, with self-attention mechanism. Link prediction is used as a
+downstream task to evaluate the effectiveness of the learned embeddings.
+Experiments have been conducted on real-world social networks dataset and the
+experimental results demonstrate that the proposed model with all three
+variants can significantly outperform the existing approaches of network
+representation learning when it is applied on link prediction task and also
+achieves better performance over all compared baselines.&lt;/p></description></item><item><title>Call for contribution to the research topic: Linked Open Bibliographic Data for Real-time Research Assessment</title><link>https://deslab.org/post/call-for-contribution-to-the-research-topic-linked-open-bibliographic-data-for-real-time-research-assessment/</link><pubDate>Sat, 07 May 2022 09:53:27 +0000</pubDate><guid>https://deslab.org/post/call-for-contribution-to-the-research-topic-linked-open-bibliographic-data-for-real-time-research-assessment/</guid><description>&lt;!--StartFragment-->
 &lt;p>Currently, large databases of open bibliographic metadata have been created and made available online in the age of open science. These resources are easily findable, accessible, interoperable, and reusable thanks to their online hosting and their representation as RDF (Resource Description Framework) knowledge graphs, and could be easily aligned together thanks to a set of unique identifiers such as ORCID ID, Wikidata ID, and DOI. The integration of heterogeneous bibliographic data such as author information (e.g., ORCID and DBLP), citations (e.g., OpenCitations and Crossref), research findings (e.g., ORKG), and the semantic knowledge about prizes, countries, research venues, publications and institutions (e.g., Wikidata) can be useful to develop high-level interpretations for the research assessment of entities.&lt;br>
 &lt;br>
 The structured format of RDF knowledge graphs can allow the automatic generation of real-time research evaluation outputs through the use of programming tools (e.g., APIs) and query services (e.g., SPARQL) as well as the enrichment and validation of bibliographic information through the use of machine learning, logical constraints, bibliometric-enhanced information retrieval, and shape expressions.&lt;br>
