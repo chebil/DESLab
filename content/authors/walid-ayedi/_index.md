@@ -16,6 +16,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ayediwalid@yahoo.fr'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/walid-ayedi-75317a42/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Walid-Ayedi
 organizations:
   - name: Faculty of Medicine of Sfax
 education:
