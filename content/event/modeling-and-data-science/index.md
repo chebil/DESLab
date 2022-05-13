@@ -6,7 +6,7 @@ date: 2022-06-30T05:30:40.854Z
 date_end: 2022-06-29T21:00:00.000Z
 all_day: false
 event: LPS and DES-RU
-event_url: notyet.com
+event_url: ""
 publishDate: 2022-05-08T22:50:40.880Z
 draft: false
 featured: false

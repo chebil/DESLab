@@ -1,7 +1,36 @@
 ---
 title: Amina Amara PhD thesis defense
-date: 2022-05-26T07:00:52.658Z
-summary: "An accurate and comprehensive user modeling has been proven
+date: 2022-05-13T07:00:52.658Z
+summary: " **Title:** A deep learning-based approach for anchor user modeling across online social networks under a big data environment. 
+
+
+**Supervisors:** Mohamed BEN AOUICHA & Mohamed Ali HADJ TAEIB
+
+
+**Defense Date:** 26 may 2022 "
+draft: false
+featured: false
+authors:
+  - admin
+  - medali
+tags:
+  - Cross-social networks analytics
+  - anchor user modeling
+  - network representation learning
+  - convolutional graph neural networks
+  - big data
+image:
+  filename: ""
+  focal_point: Smart
+  preview_only: false
+---
+**Title:** A deep learning-based approach for anchor user modeling across online social networks under a big data environment. 
+
+**Supervisors:** Mohamed BEN AOUICHA & Mohamed Ali HADJ TAEIB "
+
+**Defense Date:** 26 may 2022
+
+An accurate and comprehensive user modeling has been proven
   fundamental for many personalized social media-based services including link
   prediction and recommendation systems. A major challenge lies in that data
   available in a single online social network are usually very limited and
@@ -63,23 +92,4 @@ summary: "An accurate and comprehensive user modeling has been proven
   experimental results demonstrate that the proposed model with all three
   variants can significantly outperform the existing approaches of network
   representation learning when it is applied on link prediction task and also
-  achieves better performance over all compared baselines. "
-draft: false
-featured: false
-authors:
-  - admin
-  - medali
-tags:
-  - Cross-social networks analytics
-  - anchor user modeling
-  - network representation learning
-  - convolutional graph neural networks
-  - big data
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
----
-
-**Title:** A deep learning-based approach for anchor user modeling across online social networks under a big data environment
-**Supervisors:** Mohamed BEN AOUICHA & Mohamed Ali HADJ TAEIB
+  achieves better performance over all compared baselines. 
