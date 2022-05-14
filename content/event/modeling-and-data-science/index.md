@@ -1,8 +1,8 @@
 ---
 title: Modeling and Data Science
 location: Faculty of science - University of Sfax
-date: 2022-06-29T09:00:00.000Z
-date_end: 2022-06-30T17:00:00.000Z
+date: 2022-06-30T09:00:00.000Z
+# date_end: 2022-06-30T17:00:00.000Z
 all_day: false
 event: LPS and DES-RU
 event_url: ""
