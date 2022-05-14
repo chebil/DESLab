@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>anchor user modeling | DES Research Unit</title><link>https://deslab.org/tag/anchor-user-modeling/</link><atom:link href="https://deslab.org/tag/anchor-user-modeling/index.xml" rel="self" type="application/rss+xml"/><description>anchor user modeling</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 07:00:52 +0000</lastBuildDate><image><url>https://deslab.org/media/logo_hu38ee6a744ccbfc031b9ab908dce502fd_20106_300x300_fit_lanczos_3.png</url><title>anchor user modeling</title><link>https://deslab.org/tag/anchor-user-modeling/</link></image><item><title>Amina Amara PhD thesis defense</title><link>https://deslab.org/post/amina-amara-phd-thesis-defense/</link><pubDate>Fri, 13 May 2022 07:00:52 +0000</pubDate><guid>https://deslab.org/post/amina-amara-phd-thesis-defense/</guid><description>&lt;p>&lt;strong>Title:&lt;/strong> A deep learning-based approach for anchor user modeling across online social networks under a big data environment.&lt;/p>
-&lt;p>&lt;strong>Supervisors:&lt;/strong> Mohamed BEN AOUICHA &amp;amp; Mohamed Ali HADJ TAEIB &amp;quot;&lt;/p>
-&lt;p>&lt;strong>Defense Date:&lt;/strong> 26 may 2022&lt;/p>
-&lt;p>An accurate and comprehensive user modeling has been proven
-fundamental for many personalized social media-based services including link
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>anchor user modeling | DES Research Unit</title><link>https://deslab.org/tag/anchor-user-modeling/</link><atom:link href="https://deslab.org/tag/anchor-user-modeling/index.xml" rel="self" type="application/rss+xml"/><description>anchor user modeling</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 07:00:52 +0000</lastBuildDate><image><url>https://deslab.org/media/logo_hu38ee6a744ccbfc031b9ab908dce502fd_20106_300x300_fit_lanczos_3.png</url><title>anchor user modeling</title><link>https://deslab.org/tag/anchor-user-modeling/</link></image><item><title>Amina Amara PhD thesis defense</title><link>https://deslab.org/post/amina-amara-phd-thesis-defense/</link><pubDate>Fri, 13 May 2022 07:00:52 +0000</pubDate><guid>https://deslab.org/post/amina-amara-phd-thesis-defense/</guid><description>&lt;div style="text-align: justify">
+&lt;b>Title:&lt;/b> A deep learning-based approach for anchor user modeling across online social networks under a big data environment. &lt;/br>
+&lt;b>Supervisors:&lt;/b> Mohamed BEN AOUICHA &amp; Mohamed Ali HADJ TAEIB &lt;/br>
+&lt;b>Defense Date:&lt;/b> 26 may 2022&lt;/br>
+An accurate and comprehensive user modeling has been proven fundamental for many personalized social media-based services including link
 prediction and recommendation systems. A major challenge lies in that data
 available in a single online social network are usually very limited and
 sparse. Depending on the purpose for which an online social platform is
@@ -54,7 +54,7 @@ structures of anchor users. For this reason, OVRAU model includes two types of
 embeddings for each anchor user: one high-dimensional base embedding and a
 low-dimensional social edge embedding for each social network. In particular,
 the model learns a function that generates social edge embeddings by sampling
-and aggregating structural features from an anchor user&amp;rsquo;s neighborhood inside
+and aggregating structural features from an anchor user's neighborhood inside
 different social networks, through one of three candidate functions of
 aggregation, namely mean aggregator, max-pooling aggregator, and LSTM
 aggregator, with self-attention mechanism. Link prediction is used as a
@@ -63,4 +63,5 @@ Experiments have been conducted on real-world social networks dataset and the
 experimental results demonstrate that the proposed model with all three
 variants can significantly outperform the existing approaches of network
 representation learning when it is applied on link prediction task and also
-achieves better performance over all compared baselines.&lt;/p></description></item></channel></rss>
+achieves better performance over all compared baselines.
+&lt;/div></description></item></channel></rss>
