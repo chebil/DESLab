@@ -24,14 +24,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Title:** A deep learning-based approach for anchor user modeling across online social networks under a big data environment. 
-
-**Supervisors:** Mohamed BEN AOUICHA & Mohamed Ali HADJ TAEIB "
-
-**Defense Date:** 26 may 2022
-
-An accurate and comprehensive user modeling has been proven
-  fundamental for many personalized social media-based services including link
+<div style="text-align: justify">
+<b>Title:</b> A deep learning-based approach for anchor user modeling across online social networks under a big data environment. </br>
+<b>Supervisors:</b> Mohamed BEN AOUICHA & Mohamed Ali HADJ TAEIB </br>
+<b>Defense Date:</b> 26 may 2022</br>
+An accurate and comprehensive user modeling has been proven  fundamental for many personalized social media-based services including link
   prediction and recommendation systems. A major challenge lies in that data
   available in a single online social network are usually very limited and
   sparse. Depending on the purpose for which an online social platform is
@@ -93,3 +90,4 @@ An accurate and comprehensive user modeling has been proven
   variants can significantly outperform the existing approaches of network
   representation learning when it is applied on link prediction task and also
   achieves better performance over all compared baselines. 
+  </div>
