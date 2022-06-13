@@ -25,3 +25,5 @@ A workshop will be organized between the Data Engineering and Semantics research
 4. General regression model
 5. Statistical metrics (PCA, P-Value,...)
 6. Poster session (PhD students) 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZIDggPJMIyD6t4uJROZF5A4xvHI2aXhEX5AUXjRCzOwiVHA/viewform?embedded=true" width="640" height="1186" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
