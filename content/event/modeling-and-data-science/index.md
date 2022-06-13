@@ -26,4 +26,4 @@ A workshop will be organized between the Data Engineering and Semantics research
 5. Statistical metrics (PCA, P-Value,...)
 6. Poster session (PhD students) 
 
-[Click here to register](https://docs.google.com/forms/d/e/1FAIpQLSdZIDggPJMIyD6t4uJROZF5A4xvHI2aXhEX5AUXjRCzOwiVHA/viewform?usp=sf_link){: .btn .btn--inverse}
+[Click here to register](https://docs.google.com/forms/d/e/1FAIpQLSdZIDggPJMIyD6t4uJROZF5A4xvHI2aXhEX5AUXjRCzOwiVHA/viewform?usp=sf_link)
