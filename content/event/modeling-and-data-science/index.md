@@ -20,7 +20,7 @@ A workshop will be organized between the Data Engineering and Semantics research
 
 **Program:**
 
-**08:45** Fraud Detection Using Large-scale Imbalance Dataset(Z. Alkalidy & B. Ben Ammar)
+**08:45** Fraud Detection Using Large-scale Imbalance Dataset (Z. Alkalidy & B. Ben Ammar)
 
 **09:30** Latent Semantic Analysis (N. Jarboui)
 
@@ -32,4 +32,7 @@ A workshop will be organized between the Data Engineering and Semantics research
 
 **12:15** Poster session (PhD students) 
 
-[Click here to register](https://docs.google.com/forms/d/e/1FAIpQLSdZIDggPJMIyD6t4uJROZF5A4xvHI2aXhEX5AUXjRCzOwiVHA/viewform?usp=sf_link)
+**12:30** Smartvisor: Industrialization Model for Research Work (W. Ayedi)
+
+**13:00** Lunch
+
