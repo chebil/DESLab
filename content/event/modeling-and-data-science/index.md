@@ -19,11 +19,14 @@ A workshop will be organized between the Data Engineering and Semantics research
 </div>
 
 **Program:**
-1. Fraud Detection Using Large-scale Imbalance Dataset
-2. Latent Semantic Analysis 
-3. Hidden Markov Model 
-4. General regression model
-5. Statistical metrics (PCA, P-Value,...)
-6. Poster session (PhD students) 
+**08:45** Fraud Detection Using Large-scale Imbalance Dataset
+
+**08:45** Latent Semantic Analysis
+
+**08:45** Hidden Markov Model & Statistical metrics (PCA, P-Value,...)
+
+**08:45** General regression model
+
+**08:45** Poster session (PhD students) 
 
 [Click here to register](https://docs.google.com/forms/d/e/1FAIpQLSdZIDggPJMIyD6t4uJROZF5A4xvHI2aXhEX5AUXjRCzOwiVHA/viewform?usp=sf_link)
