@@ -19,14 +19,17 @@ A workshop will be organized between the Data Engineering and Semantics research
 </div>
 
 **Program:**
-**08:45** Fraud Detection Using Large-scale Imbalance Dataset
 
-**08:45** Latent Semantic Analysis
+**08:45** Fraud Detection Using Large-scale Imbalance Dataset(Z. Alkalidy & B. Ben Ammar)
 
-**08:45** Hidden Markov Model & Statistical metrics (PCA, P-Value,...)
+**09:30** Latent Semantic Analysis (N. Jarboui)
 
-**08:45** General regression model
+**10:15** Hidden Markov Model & Principal Component Analysis (A. Masmoudi)
 
-**08:45** Poster session (PhD students) 
+**11:00** Coffee Break
+
+**11:30** Generalized Linear Models (K. Masmoudi)
+
+**12:15** Poster session (PhD students) 
 
 [Click here to register](https://docs.google.com/forms/d/e/1FAIpQLSdZIDggPJMIyD6t4uJROZF5A4xvHI2aXhEX5AUXjRCzOwiVHA/viewform?usp=sf_link)
