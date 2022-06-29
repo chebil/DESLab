@@ -6,7 +6,7 @@ date: 2022-07-02T09:00:00.000Z
 all_day: false
 event: DES-RU
 event_url: ""
-publishDate: 2022-06-29T22:50:40.880Z
+publishDate: 2022-06-28T22:50:40.880Z
 draft: false
 featured: false
 image:
