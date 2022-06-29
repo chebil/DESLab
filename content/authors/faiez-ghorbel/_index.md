@@ -14,9 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  co-founder of the Djagora foundation in charge of entrepreneurial development.
-
-Strategic development facilitator (level 2).
+bio:  co-founder of the Djagora foundation in charge of entrepreneurial development and strategic development facilitator (level 2).
 
 interests:
   - Entrepreneurship
