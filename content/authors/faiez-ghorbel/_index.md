@@ -13,8 +13,10 @@ organizations:
   - name: University of Sfax 
     url: ''
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: My research interests concern information retrieval, semantic technologies, social media analytics, knowledge representation, Big Data and graph embedding.
+# Short bio (displayed in user profile at end of posts)
+bio:  co-founder of the Djagora foundation in charge of entrepreneurial development.
+
+Strategic development facilitator (level 2).
 
 interests:
   - Entrepreneurship
@@ -37,4 +39,4 @@ highlight_name: false
 user_groups:
   - former
 ---
-The training covers the foundations of entrepreneurial practice. As a multidisciplinary phenomenon, business models play an important role in the creation of entrepreneurial value. This training highlights the main practices that can facilitate the creation of an entrepreneurial project.
+
