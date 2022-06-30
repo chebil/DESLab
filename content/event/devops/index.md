@@ -1,7 +1,7 @@
 ---
 title: DevOps
 location: Amphi A9 - Faculty of science - University of Sfax
-date: 2022-07-02T13:00:00.000Z
+date: 2022-07-02T11:00:00.000Z
 # date_end: 2022-06-30T17:00:00.000Z
 all_day: false
 event: DES-RU
