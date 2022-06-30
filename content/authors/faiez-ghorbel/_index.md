@@ -25,7 +25,7 @@ social:
     link: 'mailto:faiez.ghorbel@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/faiez-ghorbel-5a189225
+    link: https://www.linkedin.com/in/faiez-ghorbel-5a189225
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
