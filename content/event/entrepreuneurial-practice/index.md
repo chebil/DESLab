@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurial practice
-location: Faculty of science - University of Sfax
+location: Amphi A9 - Faculty of science - University of Sfax
 date: 2022-07-02T09:00:00.000Z
 # date_end: 2022-06-30T17:00:00.000Z
 all_day: false
