@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Badr Siala | DES Research Unit</title><link>https://deslab.org/author/badr-siala/</link><atom:link href="https://deslab.org/author/badr-siala/index.xml" rel="self" type="application/rss+xml"/><description>Badr Siala</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 11:00:00 +0000</lastBuildDate><image><url>https://deslab.org/author/badr-siala/avatar_hua8cf4dfafbb64efd68969f631ee39c9f_65836_270x270_fill_q75_lanczos_center.jpg</url><title>Badr Siala</title><link>https://deslab.org/author/badr-siala/</link></image><item><title>DevOps</title><link>https://deslab.org/event/devops/</link><pubDate>Sat, 02 Jul 2022 11:00:00 +0000</pubDate><guid>https://deslab.org/event/devops/</guid><description>&lt;div style="text-align: justify">
 A workshop will be organized by the Data Engineering and Semantics research unit at the Faculty of Sciences of Sfax. The training covers an introdusction to DevOps methodology, an overview of the GitLab tool, and an implementation of a continuous integration pipeline (CI/CD) for a mini project in C++ language using the DevOps approach.&lt;/br>
-&lt;/div></description></item></channel></rss>
+&lt;/div>
+&lt;figure id="figure-devops">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_44329b8ac2842e86c3d11aa8362a4d11.webp 400w,
+/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_e1963c282dc0745d198ab57ed1eb9934.webp 760w,
+/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://deslab.org/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_44329b8ac2842e86c3d11aa8362a4d11.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item></channel></rss>

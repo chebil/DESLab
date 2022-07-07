@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Events | DES Research Unit</title><link>https://deslab.org/event/</link><atom:link href="https://deslab.org/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Events</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 11:00:00 +0000</lastBuildDate><image><url>https://deslab.org/media/logo_hu38ee6a744ccbfc031b9ab908dce502fd_20106_300x300_fit_lanczos_3.png</url><title>Recent &amp; Upcoming Events</title><link>https://deslab.org/event/</link></image><item><title>DevOps</title><link>https://deslab.org/event/devops/</link><pubDate>Sat, 02 Jul 2022 11:00:00 +0000</pubDate><guid>https://deslab.org/event/devops/</guid><description>&lt;div style="text-align: justify">
 A workshop will be organized by the Data Engineering and Semantics research unit at the Faculty of Sciences of Sfax. The training covers an introdusction to DevOps methodology, an overview of the GitLab tool, and an implementation of a continuous integration pipeline (CI/CD) for a mini project in C++ language using the DevOps approach.&lt;/br>
-&lt;/div></description></item><item><title>Entrepreneurial practice</title><link>https://deslab.org/event/entrepreuneurial-practice/</link><pubDate>Sat, 02 Jul 2022 09:00:00 +0000</pubDate><guid>https://deslab.org/event/entrepreuneurial-practice/</guid><description>&lt;div style="text-align: justify">
+&lt;/div>
+&lt;figure id="figure-devops">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_44329b8ac2842e86c3d11aa8362a4d11.webp 400w,
+/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_e1963c282dc0745d198ab57ed1eb9934.webp 760w,
+/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://deslab.org/media/devops-event-img1_huce4e77c2b397b79dd5ffd576b8f61a6a_82711_44329b8ac2842e86c3d11aa8362a4d11.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Entrepreneurial practice</title><link>https://deslab.org/event/entrepreuneurial-practice/</link><pubDate>Sat, 02 Jul 2022 09:00:00 +0000</pubDate><guid>https://deslab.org/event/entrepreuneurial-practice/</guid><description>&lt;div style="text-align: justify">
 A workshop will be organized by the Data Engineering and Semantics research unit at the Faculty of Sciences of Sfax. The training covers the foundations of entrepreneurial practice. As a multidisciplinary phenomenon, business models play an important role in the creation of entrepreneurial value. This training highlights the main practices that can facilitate the creation of an entrepreneurial project.&lt;/br>
-&lt;/div></description></item><item><title>Modeling and Data Science</title><link>https://deslab.org/event/modeling-and-data-science/</link><pubDate>Thu, 30 Jun 2022 09:00:00 +0000</pubDate><guid>https://deslab.org/event/modeling-and-data-science/</guid><description>&lt;div style="text-align: justify">
+&lt;/div>
+&lt;figure id="figure-devops">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/media/entrep-event-img1_hufce58bb5734d1d5d57436946f4771c0b_82323_8eddfd1ec29b70097642ab9c6d1e1e40.webp 400w,
+/media/entrep-event-img1_hufce58bb5734d1d5d57436946f4771c0b_82323_4fc37faccd902b3b809b59c8460c4e38.webp 760w,
+/media/entrep-event-img1_hufce58bb5734d1d5d57436946f4771c0b_82323_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://deslab.org/media/entrep-event-img1_hufce58bb5734d1d5d57436946f4771c0b_82323_8eddfd1ec29b70097642ab9c6d1e1e40.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Modeling and Data Science</title><link>https://deslab.org/event/modeling-and-data-science/</link><pubDate>Thu, 30 Jun 2022 09:00:00 +0000</pubDate><guid>https://deslab.org/event/modeling-and-data-science/</guid><description>&lt;div style="text-align: justify">
 A workshop will be organized between the Data Engineering and Semantics research unit and the Probability and Statistics laboratory at the Faculty of Sciences of Sfax. This workshop entitled modeling and data science is part of the cooperation between the two research structures. It encourages the researchers of the two teams to collaborate in the thematic of data sciences.&lt;/br>
 &lt;/div>
 &lt;p>&lt;strong>Program:&lt;/strong>&lt;/p>
