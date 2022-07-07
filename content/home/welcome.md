@@ -12,5 +12,5 @@ design:
   css_class:
 ---
 <div style="text-align: justify">
-  The <b>Data Engineering and Semantics Research Unit</b> was created in 2021 as a structure for the coordination and proliferation of research works about intelligent systems driven by knowledge resources. The Unit's mission is to develop computer applications for automating several interesting tasks in multiple areas of interest.
+  The <b>Data Engineering and Semantics Research Unit (UR21ES01)</b> was created in 2021 as a structure for the coordination and proliferation of research works about intelligent systems driven by knowledge resources. The Unit's mission is to develop computer applications for automating several interesting tasks in multiple areas of interest.
   </div>

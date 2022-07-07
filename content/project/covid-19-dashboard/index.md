@@ -2,13 +2,8 @@
 title: COVID-19 Dashboard
 date: 2022-07-07T12:23:18.915Z
 summary: >-
-  <!--StartFragment-->
+  In the context of COVID-19, we decided to contribute to the scholarly efforts of providing support to the fight of the state against the pandemic by creating tools that can be used to track and study the [epidemiological](https://en.wikipedia.org/wiki/Epidemiology) and [infodemiological](https://en.wikipedia.org/wiki/Infodemiology) situation of the disease in the country including SPEED.
 
-
-  In the context of COVID-19, the group decided to contribute to the scholarly efforts of providing support to the fight of the state against the pandemic by creating tools that can be used to track and study the [epidemiological](https://en.wikipedia.org/wiki/Epidemiology) and [infodemiological](https://en.wikipedia.org/wiki/Infodemiology) situation of the disease in the country including SPEED.
-
-
-  <!--EndFragment-->
 draft: false
 featured: false
 authors:
