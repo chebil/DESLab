@@ -19,3 +19,5 @@ authors:
 <div style="text-align: justify">
 A workshop will be organized by the Data Engineering and Semantics research unit at the Faculty of Sciences of Sfax. The training covers an introdusction to DevOps methodology, an overview of the GitLab tool, and an implementation of a continuous integration pipeline (CI/CD) for a mini project in C++ language using the DevOps approach.</br>
 </div>
+
+ {{< figure src="devops-event-img1.jpeg" id="devops" >}}
