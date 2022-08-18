@@ -19,3 +19,4 @@ authors:
 <div style="text-align: justify">
 A workshop was organized by the Data Engineering and Semantics research unit at the Faculty of Sciences of Sfax. The training covers an introduction to Git commands and GitHub.</br>
 </div>
+ {{< figure src="gitEvent.jpg" id="Git" >}}
