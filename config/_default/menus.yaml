@@ -21,6 +21,9 @@ main:
     weight: 50
   - name: Projects
     url: project
+    weight: 55
+  - name: Tools
+    url: tool
     weight: 60
   - name: Contact
     url: contact
