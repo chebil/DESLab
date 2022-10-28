@@ -3,7 +3,8 @@ title: Fraud Detection Using Large-scale Imbalance Dataset
 publication_types:
   - "2"
 authors:
-  - boulbaba-ben-ammar;admin
+  - boulbaba-ben-ammar
+  - admin
 doi: https://doi.org/10.1142/S0218213022500373
 abstract: "In the context of machine learning, an imbalanced classification
   problem states to a dataset in which the classes are not evenly distributed.
@@ -27,9 +28,16 @@ abstract: "In the context of machine learning, an imbalanced classification
   using Random oversampling."
 draft: false
 featured: false
+tags:
+  - Fraud detection
+  - classification
+  - machine learning
+  - oversampling
+  - undersampling
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-10-28T16:51:55.307Z
+date: 2022-09-16T16:51:55.307Z
+url_pdf: https://www.worldscientific.com/doi/pdf/10.1142/S0218213022500373?download=true
 ---
