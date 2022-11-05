@@ -1,6 +1,6 @@
 ---
 title: TUN-E-MARK.
-date: 2022-07-07T12:23:18.915Z
+date: 2022-11-4T12:23:18.915Z
 summary: >-
   Platform for monitoring the impact of digital marketing of Tunisian companies.
 
