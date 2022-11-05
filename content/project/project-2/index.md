@@ -8,7 +8,7 @@ summary: >-
 
   **Term: 2 years**
 
-  **Budget: 20.000 $ TND**
+  **Budget: 20.000 TND**
 
 
 
@@ -26,6 +26,6 @@ authors:
 
   **Term: 2 years**
 
-  **Budget: 20.000 $ TND**
+  **Budget: 20.000 TND**
 
 </div>
