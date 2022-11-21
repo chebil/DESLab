@@ -1,11 +1,39 @@
 ---
 title: Skander Htiouech
+authors:
+  - skander
+superuser: false
 role: assistant professor
-avatar_filename: avatar
+organizations:
+  - name: ENIB - University of Carthage
+    url: 'https://ucar.rnu.tn/ecole-nationale-dingenieurs-de-bizerte/'
+
 bio: "My researsh interests include Optimization, Metaheuristics, knapsack
   family problems, UAV "
-social: []
-superuser: false
+
+interests:
+  - Football
+  - Table tennis
+  - Chess
+
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: university of carthage - tunisia
+    - course: Msc in Computer Science
+      institution: university of valenciennes - france
+    - course: BSc in Computer Science
+      institution: University of Sfax - tunisi
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:Htiouech.skander@gmail.com'
+
+email: 'Htiouech.skander@gmail.com'
+
+user_groups:
+  - Researchers
 ---
 <!--StartFragment-->
 
