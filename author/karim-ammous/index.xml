@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karim Ammous | DES Research Unit</title><link>https://deslab.org/author/karim-ammous/</link><atom:link href="https://deslab.org/author/karim-ammous/index.xml" rel="self" type="application/rss+xml"/><description>Karim Ammous</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 14:00:00 +0000</lastBuildDate><image><url>https://deslab.org/author/karim-ammous/avatar_hu942dd61fdfddaa52e8b32bb26ee68e19_4827_270x270_fill_q75_lanczos_center.jpg</url><title>Karim Ammous</title><link>https://deslab.org/author/karim-ammous/</link></image><item><title>FORMATION KUBERNETES ET LES MICRO-SERVICES</title><link>https://deslab.org/event/kubernetes/</link><pubDate>Fri, 30 Dec 2022 14:00:00 +0000</pubDate><guid>https://deslab.org/event/kubernetes/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karim Ammous | DES Research Unit</title><link>https://deslab.org/author/karim-ammous/</link><atom:link href="https://deslab.org/author/karim-ammous/index.xml" rel="self" type="application/rss+xml"/><description>Karim Ammous</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 14:00:00 +0000</lastBuildDate><image><url>https://deslab.org/author/karim-ammous/avatar_hu942dd61fdfddaa52e8b32bb26ee68e19_4827_270x270_fill_q75_lanczos_center.jpg</url><title>Karim Ammous</title><link>https://deslab.org/author/karim-ammous/</link></image><item><title>FORMATION KUBERNETES, LES MICRO-SERVICES ET LES CONTENEURS (1)</title><link>https://deslab.org/event/kubernetes/</link><pubDate>Fri, 30 Dec 2022 14:00:00 +0000</pubDate><guid>https://deslab.org/event/kubernetes/</guid><description>&lt;div style="text-align: justify">
 &lt;b>PRÉSENTATION&lt;/b>&lt;/br>
 Le logiciel libre Kubernetes (communément appelé « K8s ») est désormais le standard en terme d’orchestration de conteneurs. Cet outil vous permettra d’entrer dans l’ère “Cloud Native” et d’exposer à grande échelle vos applications de manière sûre, reproductible et flexible. Vous apprendrez également à faire évoluer vos applications vers le standard micro-service, modulaire et scalable. Plébiscité par les géants de la Silicon Valley, K8s est géré par une gouvernance responsable liée à Cloud Native Computing Foundation (une entité de la Fondation Linux). Kubernetes fournit une « plateforme pour automatiser le déploiement, la mise à l’échelle et la mise en production de conteneurs d’applications sur des grappes de serveurs ». Il supporte de multiples moteurs d’exécution de conteneurs dont Docker, Rocket et Singularity.
 Cette formation vous présentera la toute dernière version de Kubernetes (à la date de rédaction de de ce programme : Kubernetes 1.25).&lt;/br>
 &lt;b>OBJECTIFS&lt;/b>&lt;/br>
 &lt;ul>
-&lt;li> Comprendre l’intérêt et les caractéristiques des micro-services.
+&lt;li> Comprendre l'intérêt et les caractéristiques des micro-services.
 &lt;li> Savoir déployer des applications “Cloud-Native”
-&lt;li> Maîtriser kubeadm, l’outil d’installation de Kubernetes
+&lt;li> Maîtriser kubeadm, l'outil d'installation de Kubernetes
 &lt;li> Comprendre comment déployer Kubernetes en production
 &lt;li> Déployer à grande échelle ses applications sur un cluster ou dans le cloud.
 &lt;li> Permettre le passage à l’échelle automatique des applications
-&lt;li> Mettre en place la haute-disponibilité et l’auto-réparation des services logiciels
+&lt;li> Mettre en place la haute-disponibilité et l'auto-réparation des services logiciels
 &lt;li> Optimiser le stockage de grandes masses de données avec les volumes
-&lt;li> Disposer d’un monitoring avancé de l’infrastructure et des applications
+&lt;li> Disposer d'un monitoring avancé de l'infrastructure et des applications
 &lt;li> Automatiser la mise à jour des versions logicielles de ses applications
 &lt;/ul>
 &lt;/br>
