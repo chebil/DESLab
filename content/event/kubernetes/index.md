@@ -1,5 +1,5 @@
 ---
-title: FORMATION KUBERNETES ET LES MICRO-SERVICES
+title: FORMATION KUBERNETES, LES MICRO-SERVICES ET LES CONTENEURS (1)
 location: Online
 date: 2022-12-30T14:00:00.000Z
 # date_end: 2022-06-30T17:00:00.000Z
@@ -24,15 +24,15 @@ Le logiciel libre Kubernetes (communément appelé « K8s ») est désormais le 
 Cette formation vous présentera la toute dernière version de Kubernetes (à la date de rédaction de de ce programme : Kubernetes 1.25).</br>
 <b>OBJECTIFS</b></br>
 <ul>
-<li>	Comprendre l’intérêt et les caractéristiques des micro-services.
+<li>	Comprendre l'intérêt et les caractéristiques des micro-services.
 <li>	Savoir déployer des applications “Cloud-Native”
-<li>	Maîtriser kubeadm, l’outil d’installation de Kubernetes
+<li>	Maîtriser kubeadm, l'outil d'installation de Kubernetes
 <li>	Comprendre comment déployer Kubernetes en production
 <li>	Déployer à grande échelle ses applications sur un cluster ou dans le cloud.
 <li>	Permettre le passage à l’échelle automatique des applications
-<li>	Mettre en place la haute-disponibilité et l’auto-réparation des services logiciels
+<li>	Mettre en place la haute-disponibilité et l'auto-réparation des services logiciels
 <li>	Optimiser le stockage de grandes masses de données avec les volumes
-<li>	Disposer d’un monitoring avancé de l’infrastructure et des applications
+<li>	Disposer d'un monitoring avancé de l'infrastructure et des applications
 <li>	Automatiser la mise à jour des versions logicielles de ses applications
 </ul>
 </br>
