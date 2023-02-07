@@ -1,8 +1,8 @@
 ---
 title: ML Olympiad - Sentiment Analysis Of JUMIA Tunisia
 location: https://www.kaggle.com/competitions/ml-olympiad-sentiment-analysis-of-jumia-tunisia
-date: 2023-03-02T11:00:00.000Z
-# date_end: 2022-06-30T17:00:00.000Z
+date: 2023-02-07T00:00:00.000Z
+date_end: 2023-03-02T00:00:00.000Z
 all_day: false
 event: Google Developers
 event_url: ""
