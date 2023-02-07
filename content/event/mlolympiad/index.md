@@ -31,6 +31,6 @@ In this competition, you have a multiclassification problem to determine the sen
 Sentiment analysis (or opinion mining) is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.</br>
 </div>
 <div style="text-align: center; color:Tomato">
-<b>Swag prizes for top winners are sponsored by Google Developers. Top three winners will receive swags</b>
+<b>Swag prizes for top winners are sponsored by Google Developers</br> Top three winners will receive swags</b>
 </div>
 
