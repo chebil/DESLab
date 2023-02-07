@@ -4,7 +4,7 @@ location: https://www.kaggle.com/competitions/ml-olympiad-sentiment-analysis-of-
 date: 2023-03-02T11:00:00.000Z
 # date_end: 2022-06-30T17:00:00.000Z
 all_day: false
-event: DES-RU
+event: Google Developers
 event_url: ""
 publishDate: 2023-02-06T22:50:40.880Z
 draft: false
@@ -29,5 +29,8 @@ In this competition, you have a multiclassification problem to determine the sen
 # Problem Statement
 <div style="text-align: justify">
 Sentiment analysis (or opinion mining) is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.</br>
+</div>
+<div style="text-align: center; color:Tomato">
+<b>Swag prizes for top winners are sponsored by Google Developers. Top three winners will receive swags</b>
 </div>
 
