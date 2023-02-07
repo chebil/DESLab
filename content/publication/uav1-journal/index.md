@@ -20,5 +20,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-02-07T00:00:00.000Z
-url_pdf: 
+url_pdf: https://downloads.hindawi.com/journals/complexity/2023/3001812.pdf
 ---
