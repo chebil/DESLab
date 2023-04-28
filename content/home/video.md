@@ -10,7 +10,7 @@ headless: true
 weight: 15
 
 # Section title
-title: DES Data Center
+title: The DES Data Center
 
 # Section subtitle
 subtitle:

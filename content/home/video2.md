@@ -1,13 +1,23 @@
 ---
-widget: hero 
-headless: true # This file represents a page section.
-weight: 16 # Order that this section will appear.
-title: Data Engineering and Semantics Research Unit
-hero_media: VID1.mp4
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 16
+
+# Section title
+title: The DES Working Space
+
+# Section subtitle
+subtitle:
+
+# Section design
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style: "text-align: center;"
-  css_class:
+  # Use a 1-column layout
+  columns: "1"
 ---
+{{< video src="VID1.mp4" controls="yes" >}}
