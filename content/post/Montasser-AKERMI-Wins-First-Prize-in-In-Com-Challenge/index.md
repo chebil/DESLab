@@ -18,5 +18,5 @@ We are proud to announce that our PhD researcher, Montasser AKERMI, has won firs
 Montasser's project aligned with SDG 8, SDG 9, SDG 12, and SDG 17. His team worked tirelessly to develop the project, and we are proud of their achievement.</br>
 We congratulate Montasser on his winning entry and thank him for his dedication.
   </div>
-  {{< figure src="akermi1.png" id="prize" >}}
-  {{< figure src="akermi2.heic" id="prize" >}}
+  {{< figure src="akermi1.jpeg" id="prize" >}}
+  {{< figure src="akermi2.jpeg" id="prize" >}}
