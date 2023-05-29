@@ -9,7 +9,7 @@ authors:
 tags:
   - Sustainable Development Goals
 image:
-  filename: "akermi1.heic"
+  filename: "akermi1.png"
   focal_point: Smart
   preview_only: false
 ---
