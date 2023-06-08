@@ -17,6 +17,6 @@ image:
   preview_only: false
 ---
 <!-- insert pdf file -->
-{{% embed_pdf url="uploads/AIRISE.pdf" filename="AIRISE.pdf" %}}
+<iframe height="400px" width="100%" src="https://drive.google.com/file/d/13ZCGR6YtAWFXtd2no_71cj_7YrU8iTiC/preview" frameborder="0" allowfullscreen="true"></iframe>
 <!-- insert pdf file -->
 ```
