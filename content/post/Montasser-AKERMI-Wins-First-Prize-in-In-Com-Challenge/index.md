@@ -5,7 +5,7 @@ summary: We are proud to announce that our PhD researcher, Montasser AKERMI, has
 draft: false
 featured: false
 authors:
-  - admin
+  - medali
 tags:
   - Sustainable Development Goals
 image:
