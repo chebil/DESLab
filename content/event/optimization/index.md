@@ -6,7 +6,7 @@ date_end: 2023-07-03T11:00:00.000Z
 all_day: false
 # event: Google Meet Link
 # event_url: "https://meet.google.com/hdg-juke-hhs"
-publishDate: 2023-06-31T22:50:40.880Z
+publishDate: 2023-06-30T22:50:40.880Z
 draft: false
 featured: true
 image:
