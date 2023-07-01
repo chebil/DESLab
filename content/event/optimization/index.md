@@ -19,7 +19,6 @@ authors:
 
 
 <div style="text-align: justify">
-<b>PRÉSENTATION</b></br>
 The presentation focuses on the application of hybrid heuristics and metaheuristics to address several combinatorial optimization problems. Specifically, we discuss three optimization problems: the Multidimensional Knapsack Problem (MKP), the Knapsack Sharing Problem (KSP), and the K-Traveling Repairman Problem (K-TRP). In order to tackle these problems, we introduce a set of heuristics and metaheuristics, namely the Filter-and-Fan (F&F) metaheuristic, the Iterative Linear Programming-based Heuristic (ILPH), and the Quantum Particle Swarm Optimization metaheuristic (QPSO).</br>
 Throughout the presentation, we provide insights into the application of these approaches and discuss their performance on the MKP, KSP, and K-TRP problems. We showcase their ability to handle complex combinatorial optimization scenarios and present empirical results highlighting their effectiveness.
 
