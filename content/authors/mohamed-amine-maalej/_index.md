@@ -21,12 +21,12 @@ organizations:
 bio: The areas of my research concerns include but not limited to Bayesian Networks, Model based diagnosis, Data Analytics (Imagery, Sensors, EEG, clinical data, physiological data, ...), Machine Learning and Deep Learning applications, IOT, Security. 
 
 interests:
-  -	Programming
-  -	Electronics
-  -	Internet 
-  -	Photography
-  -	Astronomy 
-  -	Sub aquatic Diving (Diver 1* CMAS)
+  - Programming
+  - Electronics
+  - Internet
+  - Photography
+  - Astronomy
+  - Sub aquatic Diving (Diver 1* CMAS)
 
 education:
   courses:
