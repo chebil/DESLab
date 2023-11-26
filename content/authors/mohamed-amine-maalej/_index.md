@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohamed-Amine MAALEJ 
+title: Mohamed-Amine Maalej 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant professor in computer science
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
