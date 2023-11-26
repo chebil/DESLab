@@ -1,6 +1,6 @@
 ---
-title: Walid AYEDI
-role: Assistant professor in computer science
+title: Walid Ayedi
+role: Assistant professor
 authors:
   -walid-ayedi
 avatar_filename: avatar.png

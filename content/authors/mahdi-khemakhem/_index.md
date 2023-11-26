@@ -1,6 +1,6 @@
 ---
 title: Mahdi Khemakhem
-role: Associate Professor in computer science
+role: Associate Professor
 authors:
   - mahdi-khemakhem
 organizations:

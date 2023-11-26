@@ -1,6 +1,6 @@
 ---
 title: Ali Salem
-role: Assistant professor in computer science
+role: Assistant professor
 authors:
   - ali-salem
 bio: Ali SALEM is an assistant professor at Faculty of Sciences in Sfax,

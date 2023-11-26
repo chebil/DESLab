@@ -1,6 +1,6 @@
 ---
 title: Faten Chaabane
-role: Assistant Professor in computer science
+role: Assistant Professor
 authors:
   - imen-masmoudi
 organizations:

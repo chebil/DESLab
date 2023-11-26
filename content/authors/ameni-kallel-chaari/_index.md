@@ -1,5 +1,5 @@
 ---
-title: Ameni KALLEL CHAARi
+title: Ameni Kallel Chaari
 role: Computer Technologist Teacher
 authors:
  - ameni-kallel-chaari

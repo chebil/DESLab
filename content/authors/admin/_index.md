@@ -6,7 +6,7 @@ title: Mohamed Ben Aouicha
 superuser: true
 
 # Role/position
-role: Associate professor in computer science
+role: Associate professor 
 
 # Organizations/Affiliations
 organizations:

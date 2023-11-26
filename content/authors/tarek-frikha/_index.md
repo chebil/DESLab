@@ -1,5 +1,5 @@
 ---
-title: Tarek FRIKHA
+title: Tarek Frikha
 role: Assistant Professor
 authors:
   - tarek-frikha

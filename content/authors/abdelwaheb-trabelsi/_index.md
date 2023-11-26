@@ -1,8 +1,8 @@
 ---
-title: Abdelwaheb Mohammed Trabelsi
+title: Abdelwaheb Trabelsi
 role: Assistant Professor
 authors:
-  -abdelwaheb-mohammed-trabelsi
+  -abdelwaheb-trabelsi
 avatar_filename: avatar.jpg
 bio: "My research interests include: human computer interaction, software
   engineering for interactive system design and evaluation, graphical user

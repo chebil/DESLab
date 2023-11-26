@@ -1,6 +1,6 @@
 ---
 title: Boukthir Haddar
-role: Assistant professor in computer science
+role: Assistant professor
 authors:
   - boukthir-haddar
 organizations:
