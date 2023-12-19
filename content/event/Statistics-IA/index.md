@@ -15,7 +15,7 @@ image:
   preview_only: false
 ---
 <div style="text-align: justify">
-A workshop will be organized between the Data Engineering and Semantics research unit and the Probability and Statistics laboratory at the Faculty of Sciences of Sfax. This workshop entitled modeling and data science is part of the cooperation between the two research structures. It encourages the researchers of the two teams to collaborate in the thematic of Statistics, Artificial intelligence and Machine Learning algorithms.</br>
+A workshop will be organized between the Data Engineering and Semantics research unit and the Probability and Statistics laboratory at the Faculty of Sciences of Sfax. This workshop entitled "Rôle de la statistique en IA" is part of the cooperation between the two research structures. It encourages the researchers of the two teams to collaborate in the thematic of Statistics, Artificial intelligence and Machine Learning algorithms.</br>
 </div>
 
 
