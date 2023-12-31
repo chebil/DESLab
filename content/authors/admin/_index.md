@@ -17,12 +17,6 @@ organizations:
 bio: My research interests concern information retrieval, semantic technologies, social media analytics, knowledge representation, Big Data and graph embedding.
 
 interests:
-  - Information Retrieval
-  - Knowledge representation
-  - Semantic technologies
-  - Social media analytics
-  - Big Data
-  - Graph embedding
   - Semantic technologies
   - Big Data analytics
   - Graph Neural Network
