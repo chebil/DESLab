@@ -23,6 +23,11 @@ interests:
   - Social media analytics
   - Big Data
   - Graph embedding
+  - Semantic technologies
+  - Big Data analytics
+  - Graph Neural Network
+  - Data management strategies in a Data-Driven environment
+
 
 education:
   courses:
