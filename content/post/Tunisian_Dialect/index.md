@@ -4,8 +4,8 @@ date: 2023-11-10T07:00:52.658Z
 summary: Houcemeddine Turki presents the outcomes of the standardization of the Tunisian dialect, which are now available online. The work includes a reference linguistic bibliography for Tunisian, a standardized spelling for Tunisian in Arabic letters, a standardized spelling and a standardized morphology for Tunisian in Latin letters, and a standardized phonology of Tunisian. The project has required considerable multidisciplinary efforts and has been developed in collaboration with the Association Derja and Data Engineering and Semantics Lab (DESLab)
 draft: false
 featured: true
-authors:
-  - turki
+# authors:
+#   - turki
 tags:
   - Tunisian dialect
   - Association Derja
