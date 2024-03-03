@@ -16,7 +16,7 @@ event_url: https://fss.rnu.tn/
 publishDate: 2024-03-03T10:33:56.458Z
 draft: false
 featured: false
-authors: 
+authors:
   - medali
 image:
   filename: ""
@@ -24,7 +24,6 @@ image:
   preview_only: false
 ---
 <div style="text-align: justify">
-<div class="row">
     <b>Conférenciers: </b></br>
     <ul>
       <li>Sophie Dabo (Université de Lille)</li>
@@ -33,7 +32,6 @@ image:
       <li>Nicolas Chenavier (Université du Littoral)</li>
       <li>Solym Manou Abi (CUFM Mayotte)</li>
     </ul>
-    </br>
     <b>Organisateurs: </b></br>
     <ul>
     <li> Oumaima Ben Mrad (Université de Sfax)</li>
@@ -41,5 +39,4 @@ image:
     <li> Yousri Slaoui (Université de Poitiers)</li>
     <li> Mohamed Ali Hadj Taeib (Université de Sfax)</li>
     </ul>
-</div>
 </div>
