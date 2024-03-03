@@ -16,14 +16,14 @@ event_url: https://fss.rnu.tn/
 publishDate: 2024-03-03T10:33:56.458Z
 draft: false
 featured: false
-authors: -medali
+authors: 
+  - medali
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 ---
 <div style="text-align: justify">
-<!-- two columns -->
 <div class="row">
   <div class="column">
     <b>Conférenciers: </b></br>
