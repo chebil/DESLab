@@ -1,7 +1,7 @@
 ---
 title: Mohamed Ben Aouicha
 role: Associate professor
-avatar_filename: 429597028_1106476940537007_1978427242531617588_n.png
+avatar_filename: avatar.png
 bio: My research interests concern information retrieval, semantic technologies,
   social media analytics, knowledge representation, Big Data and graph
   embedding.
