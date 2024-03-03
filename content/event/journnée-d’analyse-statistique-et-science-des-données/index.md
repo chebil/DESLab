@@ -33,6 +33,7 @@ image:
       <li>Nicolas Chenavier (Université du Littoral)</li>
       <li>Solym Manou Abi (CUFM Mayotte)</li>
     </ul>
+    </br>
     <b>Organisateurs: </b></br>
     <ul>
     <li> Oumaima Ben Mrad (Université de Sfax)</li>
@@ -40,4 +41,5 @@ image:
     <li> Yousri Slaoui (Université de Poitiers)</li>
     <li> Mohamed Ali Hadj Taeib (Université de Sfax)</li>
     </ul>
+</div>
 </div>
