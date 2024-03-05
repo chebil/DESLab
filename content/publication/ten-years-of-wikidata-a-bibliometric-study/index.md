@@ -22,9 +22,14 @@ abstract: In this research paper, we analyzed the scientific research dealing
   humanities, biology, and healthcare.
 draft: false
 featured: false
+tags:
+  - Wikidata
+  - Open Knowledge Graphs
+  - Bibliometrics
+  - Wikimedia Research
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:29:25.809Z
+date: 2023-11-13T05:29:25.809Z
 ---
