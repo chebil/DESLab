@@ -24,6 +24,13 @@ abstract: Semantic text annotations have been a key factor for supporting
   for the development of semantic annotation models and projects.
 draft: false
 featured: false
+tags:
+  - Semantic relations
+  - Semantic annotations
+  - Named entity annotation
+  - Semantic relation annotation
+  - Annotation models
+  - CORD-19
 image:
   filename: featured
   focal_point: Smart
