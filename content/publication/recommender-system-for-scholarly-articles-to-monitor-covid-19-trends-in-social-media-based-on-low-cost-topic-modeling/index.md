@@ -25,9 +25,15 @@ abstract: During the last years, many computer systems have been developed to
   PubMed Central for adjusting COVID-19 trendy thoughts in a population.
 draft: false
 featured: false
+tags:
+  - Recommender System
+  - Scholarly Publications
+  - Social Network Analysis
+  - Topic Modeling
+  - Latent Dirichlet Allocation
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:23:55.250Z
+date: 2022-12-13T05:23:55.250Z
 ---
