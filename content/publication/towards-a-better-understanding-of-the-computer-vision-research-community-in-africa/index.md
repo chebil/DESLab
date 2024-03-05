@@ -43,9 +43,13 @@ abstract: Computer vision is a broad field of study that encompasses different
   lead their research or not.
 draft: false
 featured: false
+tags:
+  - computer vision
+  - participatory approach
+  - bibliometric study
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:28:24.308Z
+date: 2023-10-30T05:28:24.308Z
 ---
