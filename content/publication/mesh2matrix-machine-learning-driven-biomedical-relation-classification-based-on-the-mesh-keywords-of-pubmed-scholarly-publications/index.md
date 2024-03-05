@@ -39,4 +39,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-04-10T05:38:00.000Z
+url_pdf: https://ceur-ws.org/Vol-3230/paper-07.pdf
 ---
