@@ -31,4 +31,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-11-13T05:31:44.351Z
+url_pdf: https://ceur-ws.org/Vol-3640/paper10.pdf
 ---
