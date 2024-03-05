@@ -28,9 +28,15 @@ abstract: Biomedical relation classification has been significantly improved by
   https://github.com/SisonkeBiotik-Africa/MeSH2Matrix.
 draft: false
 featured: false
+tags:
+  - Biomedical Relation Classification
+  - MeSH Keywords
+  - PubMed Records
+  - MeSH qualifiers
+  - Machine Learning
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:38:31.887Z
+date: 2022-04-10T05:38:00.000Z
 ---
