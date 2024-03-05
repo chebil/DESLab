@@ -19,9 +19,16 @@ abstract: This brief research report analyzes the availability of Digital Object
   relevant for librarians, publishers, and scientometricians.
 draft: false
 featured: false
+tags:
+  - scholarly communication
+  - scientometrics
+  - publishing industry
+  - Global South
+  - persistent identifiers
+  - journals
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:27:33.372Z
+date: 2023-08-17T05:27:33.372Z
 ---
