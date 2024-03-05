@@ -17,9 +17,16 @@ abstract: In this position paper, we discuss the semantic alignment-based
   both methods to provide the community with a useful overview of the matter.
 draft: false
 featured: false
+tags:
+  - Wikidata
+  - Knowledge Graph Validation
+  - Shape Expressions
+  - SPARQL
+  - Semantic Alignment
+  - Data Quality
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:30:04.487Z
+date: 2023-11-13T05:30:04.487Z
 ---
