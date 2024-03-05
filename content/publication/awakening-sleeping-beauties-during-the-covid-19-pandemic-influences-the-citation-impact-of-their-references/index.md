@@ -15,9 +15,14 @@ abstract: In this research letter, we build upon recent studies about the
   existence of a cascading activation of citation-based sleeping beauties.
 draft: false
 featured: false
+tags:
+  - COVID-19
+  - Cascading effect
+  - Sleeping Beauties
+  - Citation Bursts
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:34:49.547Z
+date: 2022-08-22T05:34:00.000Z
 ---

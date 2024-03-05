@@ -24,6 +24,17 @@ abstract: Urgent global research demands real-time dissemination of precise
   data as revealed by previous research.
 draft: false
 featured: false
+tags:
+  - SPARQL
+  - Wikidata
+  - Public health surveillance
+  - Knowledge graph refinement
+  - COVID19 epidemiology
+  - Validation constraints
+  - Data quality
+  - Shape Expressions
+  - Collaborative curation
+  - Public Health Emergency of International Concern
 image:
   filename: featured
   focal_point: Smart

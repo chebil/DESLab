@@ -21,9 +21,13 @@ abstract: So far, research evaluation has been very important as a means for
   statistics for scholarly publications (Markscheffel, 2013).
 draft: false
 featured: false
+tags:
+  - Linked Open Data
+  - Bibliographic metadata
+  - Semantic Web
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:32:42.224Z
+date: 2023-09-15T05:32:42.224Z
 ---

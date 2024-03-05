@@ -19,9 +19,14 @@ abstract: Scientists are expected to advance sequentially from PhD to postdoc to
   that suit them.
 draft: false
 featured: false
+tags:
+  - Ph.D. Track
+  - Science Policy
+  - Research Policy
+  - Scholarly Paths
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:33:40.606Z
+date: 2024-01-05T05:33:40.606Z
 ---
