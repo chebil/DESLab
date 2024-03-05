@@ -17,9 +17,16 @@ abstract: This comment discusses the benefits of representing and reusing the
   practice and research.
 draft: false
 featured: false
+tags:
+  - Electronic Health Records
+  - FHIR RDF
+  - Semantic EHR
+  - Structured EHR
+  - Clinical Data Integration
+  - Data reuse
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:35:32.886Z
+date: 2022-12-01T05:35:00.000Z
 ---
