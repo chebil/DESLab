@@ -45,4 +45,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-11-03T09:33:17.082Z
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2924
 ---

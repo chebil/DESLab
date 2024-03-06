@@ -42,4 +42,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2024-02-24T09:26:21.823Z
+url_pdf: https://www.scitepress.org/PublicationsDetail.aspx?ID=wSMqpXnDy5M=&t=1
 ---
