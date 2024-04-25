@@ -1,0 +1,55 @@
+---
+title: Towards a Better Understanding of the Computer Vision Research Community
+  in Africa
+publication_types:
+  - "1"
+authors:
+  - turki
+doi: 10.1145/3617694.3623221
+abstract: Computer vision is a broad field of study that encompasses different
+  tasks (e.g., object detection, semantic segmentation, 3D reconstruction).
+  Although computer vision is relevant to the African communities in various
+  applications, yet computer vision research is under-explored in the continent
+  and constructs only 0.06% of top-tier publications in the last ten years. In
+  this paper, our goal is to have a better understanding of the computer vision
+  research conducted in Africa and provide pointers on whether there is equity
+  in research or not. We do this through an empirical analysis of the African
+  computer vision publications that are Scopus indexed, where we collect around
+  63,000 publications over the period 2012-2022. We first study the
+  opportunities available for African institutions to publish in top-tier
+  computer vision venues. We show that African publishing trends in top-tier
+  venues over the years do not exhibit consistent growth, unlike other
+  continents such as North America or Asia. Moreover, we study all computer
+  vision publications beyond top-tier venues in different African regions to
+  find that mainly Northern and Southern Africa are publishing in computer
+  vision with 68.5% and 15.9% of publications, resp. Nonetheless, we highlight
+  that both Eastern and Western Africa are exhibiting a promising increase with
+  the last two years closing the gap with Southern Africa. Additionally, we
+  study the collaboration patterns in these publications to find that most of
+  these exhibit international collaborations rather than African ones. We also
+  show that most of these publications include an African author that is a key
+  contributor as the first or last author. Finally, we present the most
+  recurring keywords in computer vision publications per African region. In
+  summary, our analysis reveals that African researchers are key contributors to
+  African research, yet there exists multiple barriers to publish in top-tier
+  venues and establish African collaborations. Additionally, the question on
+  whether there is an alignment between the current computer vision topics
+  published in Africa and the most urgent needs in African communities remains
+  unanswered. In this work we took the first step of documenting per-region
+  published topics and we leave it for future work to investigate the latter
+  question. This work is part of a community based effort that is focused on
+  improving the computer vision research in Africa, where we question whether
+  researchers across the different regions have access to equal opportunities to
+  lead their research or not.
+draft: false
+featured: false
+tags:
+  - computer vision
+  - participatory approach
+  - bibliometric study
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2023-10-30T05:28:24.308Z
+---
