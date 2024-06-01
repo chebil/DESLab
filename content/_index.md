@@ -18,11 +18,13 @@ sections:
 
   - block: markdown
     content:
-      title: The DES Data Center
+      title: The DES Office and Data Center
       text: |
-        {{< video src="VID1.mp4" controls="yes" >}} | {{< video src="VID2.mp4" controls="yes" >}}
+        <div style="display: flex; justify-content: center;">
+          {{< video src="VID1.mp4" controls="yes" >}} {{< video src="VID2.mp4" controls="yes" >}}
+        </div>
       design:
-        columns: '2'
+        columns: '1'
         spacing:
           padding: ['20px', '0', '20px', '0']
         
