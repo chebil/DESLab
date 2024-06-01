@@ -15,7 +15,17 @@ sections:
         <div style="text-align: justify">
         The <b>Data Engineering and Semantics Research Unit (UR21ES01)</b> was created in 2021 as a structure for the coordination and proliferation of research works about intelligent systems driven by knowledge resources. The Unit's mission is to develop computer applications for automating several tasks in multiple areas of interest.
         </div>
-  
+
+  - block: markdown
+    content:
+      title: The DES Data Center
+      text: |
+        {{< video src="VID1.mp4" controls="yes" >}} | {{< video src="VID2.mp4" controls="yes" >}}
+      design:
+        columns: '2'
+        spacing:
+          padding: ['20px', '0', '20px', '0']
+        
   - block: collection
     content:
       title: Latest News
@@ -39,7 +49,15 @@ sections:
     content:
       title: Partners
       subtitle: ''
-      text: 
+      text: |
+        ||
+        :--:|:--:|:--:|:--:|:--:|:--:
+        ![](/albums/partners/wikimedia.svg)  | ![](/albums/partners/virginia.png)| ![](/albums/partners/bern.png)| ![](/albums/partners/pretoria.png) | ![](/albums/partners/uned.jpg)| ![](/albums/partners/obuda.png)
+        ![](/albums/partners/mir.jpg)| ![](/albums/partners/milan.jpg)| ![](/albums/partners/nui.jpg)| ![](/albums/partners/basque.png) | ![](/albums/partners/havre.png)| ![](/albums/partners/lis.png)
+        ![](/albums/partners/world.png)  |![](/albums/partners/kaist.png)| ![](/albums/partners/minds.jpg)| ![](/albums/partners/UDE.svg)| ![](/albums/partners/fab.png)| ![](/albums/partners/tech.png)
+        ![](/albums/partners/intel.png)  |![](/albums/partners/phoenix.jpg)| ![](/albums/partners/sifast.svg)| ![](/albums/partners/jumia.jpg)| ![](/albums/partners/spark.png)| ![](/albums/partners/inel.png)
+        
+        
     design:
       columns: '1'
       spacing:
