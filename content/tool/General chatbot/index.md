@@ -1,6 +1,6 @@
 ---
 title: 1.	General chatbot
-date: 2024-08-22T12:23:18.915Z
+date: 2024-08-21T12:23:18.915Z
 summary: >-
   An advanced AI-driven chatbot offering interactive and intuitive communication tailored for diverse applications.
 
