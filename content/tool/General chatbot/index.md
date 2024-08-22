@@ -1,5 +1,5 @@
 ---
-title: 1.	General chatbot
+title: General chatbot
 date: 2024-08-21T12:23:18.915Z
 summary: >-
   An advanced AI-driven chatbot offering interactive and intuitive communication tailored for diverse applications.
@@ -11,4 +11,4 @@ authors:
   - admin
 ---
 An advanced AI-driven chatbot offering interactive and intuitive communication tailored for diverse applications.
-# [Explore more](https://chat-ai.deslabcloud.com/)
+[Explore more](https://chat-ai.deslabcloud.com/)
