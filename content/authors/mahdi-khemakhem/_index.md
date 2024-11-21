@@ -1,6 +1,6 @@
 ---
 title: Mahdi Khemakhem
-role: Associate Professor
+role: Professor
 authors:
   - mahdi-khemakhem
 organizations:
