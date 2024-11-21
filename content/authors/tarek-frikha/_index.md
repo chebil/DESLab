@@ -1,6 +1,6 @@
 ---
 title: Tarek Frikha
-role: Assistant Professor
+role: Associate Professor
 authors:
   - tarek-frikha
 organizations:
