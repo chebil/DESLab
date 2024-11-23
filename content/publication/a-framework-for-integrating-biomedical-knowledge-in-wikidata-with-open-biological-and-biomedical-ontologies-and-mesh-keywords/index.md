@@ -5,8 +5,8 @@ publication_types:
   - article-journal
 authors:
   - chebil
-  - admin
   - medali
+  - admin
 doi: 10.1016/j.heliyon.2024.e38448
 abstract: This study presents a comprehensive framework to enhance Wikidata as
   an open and collaborative knowledge graph by integrating Open Biological and
