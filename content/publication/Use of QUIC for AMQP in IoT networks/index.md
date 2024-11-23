@@ -1,7 +1,7 @@
 ---
 title: Use of QUIC for AMQP in IoT networks
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - walid-karamti
 doi: https://doi.org/10.1016/j.comnet.2023.109640

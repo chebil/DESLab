@@ -1,9 +1,8 @@
 ---
 title: Coupling Wikipedia Categories with Wikidata Statements for Better Semantics
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 abstract: In this position paper, we explain how the combination of Wikipedia

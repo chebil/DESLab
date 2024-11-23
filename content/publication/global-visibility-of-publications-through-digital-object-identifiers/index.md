@@ -1,9 +1,8 @@
 ---
 title: Global visibility of publications through Digital Object Identifiers
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: 10.3389/frma.2023.1207980

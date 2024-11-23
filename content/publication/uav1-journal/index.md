@@ -1,7 +1,7 @@
 ---
 title: An Extended Model for the UAVs-Assisted Multiperiodic Crowd Tracking Problem
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - skander-htiouech
   - chebil

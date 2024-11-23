@@ -2,9 +2,8 @@
 title: Recommender System for Scholarly Articles to Monitor COVID-19 Trends in
   Social Media Based on Low-Cost Topic Modeling
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 doi: 10.1007/978-3-031-27409-1_22

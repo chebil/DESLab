@@ -1,7 +1,7 @@
 ---
 title: Scheduling analysis and correction for dependent real-time tasks upon heterogeneous multiprocessor architectures
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - walid-karamti
   - adel-mahfoudhi

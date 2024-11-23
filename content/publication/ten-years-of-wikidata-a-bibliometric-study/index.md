@@ -1,9 +1,8 @@
 ---
 title: "Ten years of Wikidata: A bibliometric study"
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 abstract: In this research paper, we analyzed the scientific research dealing

@@ -2,9 +2,8 @@
 title: Enhancing knowledge graph extraction and validation from scholarly
   publications using bibliographic metadata
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: https://doi.org/10.3389/frma.2021.694307

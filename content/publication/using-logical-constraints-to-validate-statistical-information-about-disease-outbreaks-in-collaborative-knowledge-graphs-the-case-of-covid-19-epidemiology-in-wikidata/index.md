@@ -3,9 +3,8 @@ title: "Using logical constraints to validate statistical information about
   disease outbreaks in collaborative knowledge graphs: the case of COVID-19
   epidemiology in Wikidata"
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: 10.7717/peerj-cs.1085

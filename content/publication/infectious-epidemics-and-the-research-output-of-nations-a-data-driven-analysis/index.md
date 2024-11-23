@@ -2,9 +2,8 @@
 title: "Infectious epidemics and the research output of nations: A data-driven
   analysis"
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: https://doi.org/10.1177/01655515211006605

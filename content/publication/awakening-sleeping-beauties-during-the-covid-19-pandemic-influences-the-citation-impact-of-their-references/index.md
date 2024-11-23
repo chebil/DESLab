@@ -2,9 +2,8 @@
 title: Awakening sleeping beauties during the COVID-19 pandemic influences the
   citation impact of their references
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: 10.1007/s11192-022-04501-8

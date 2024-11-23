@@ -1,7 +1,7 @@
 ---
 title: Systematic review of co-design in digital health for COVID-19 research
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - rekik
 

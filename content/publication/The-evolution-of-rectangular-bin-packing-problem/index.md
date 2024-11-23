@@ -1,7 +1,7 @@
 ---
 title: The evolution of rectangular bin packing problem—A review of research topics, applications, and cited papers
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - boukthir-haddar
 doi: https://doi.org/10.3934/jimo.2022088

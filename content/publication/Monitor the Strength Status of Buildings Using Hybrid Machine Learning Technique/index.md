@@ -1,7 +1,7 @@
 ---
 title: Monitor the Strength Status of Buildings Using Hybrid Machine Learning Technique
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - walid-karamti
 doi: https://doi.org/10.1109/ACCESS.2023.3247499

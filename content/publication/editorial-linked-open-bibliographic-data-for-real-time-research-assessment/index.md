@@ -1,10 +1,9 @@
 ---
 title: "Editorial: Linked Open Bibliographic Data for Real-time Research Assessment"
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - admin
-  - turki
   - medali
 doi: 10.3389/frma.2023.1275731
 abstract: So far, research evaluation has been very important as a means for

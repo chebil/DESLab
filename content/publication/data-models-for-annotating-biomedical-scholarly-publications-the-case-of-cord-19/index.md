@@ -3,9 +3,8 @@ title: "Data Models for Annotating Biomedical Scholarly Publications: the Case
   of CORD-19"
 subtitle: ""
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 doi: 10.1145/3487553.3524675

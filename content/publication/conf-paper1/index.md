@@ -16,9 +16,8 @@ abstract: Beyond class imbalance and the sample size per class, this research
   framework of Explainable Artificial Intelligence.
 url_pdf: ""
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 url_dataset: ""

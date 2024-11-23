@@ -2,9 +2,8 @@
 title: " Automating the use of Shape Expressions for the validation of semantic
   knowledge in Wikidata"
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - chebil
   - admin

@@ -1,7 +1,7 @@
 ---
 title: Vehicle Insurance Fraud Detection Based on Hybrid Approach for Data Augmentation
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - boulbaba-ben-ammar
   - admin

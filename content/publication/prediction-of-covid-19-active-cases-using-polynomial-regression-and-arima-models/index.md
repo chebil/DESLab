@@ -2,7 +2,7 @@
 title: Prediction of COVID-19 Active Cases Using Polynomial Regression and ARIMA
   Models.
 publication_types:
-  - "1"
+  - paper-conference
 authors:
   - boulbaba-ben-ammar
 doi: http://dx.doi.org/10.1007/978-3-030-96308-8_125

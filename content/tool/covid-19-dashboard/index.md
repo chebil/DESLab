@@ -7,7 +7,6 @@ summary: >-
 draft: false
 featured: false
 authors:
-  - turki
   - medali
   - admin
 ---
