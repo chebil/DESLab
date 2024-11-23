@@ -5,6 +5,8 @@ publication_types:
   - article-journal
 authors:
   - chebil
+  - admin
+  - medali
 doi: 10.1016/j.heliyon.2024.e38448
 abstract: This study presents a comprehensive framework to enhance Wikidata as
   an open and collaborative knowledge graph by integrating Open Biological and
@@ -32,11 +34,16 @@ abstract: This study presents a comprehensive framework to enhance Wikidata as
 draft: false
 featured: false
 tags:
-  - Wikidata; Open biological and biomedical ontologies; MeSH keywords;
-    Biomedical relation identification; Crowdsourcing; PubMed
+  - Wikidata
+  - Open biological and biomedical ontologies
+  - MeSH keywords
+  - Biomedical relation identification
+  - Crowdsourcing
+  - PubMed
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2024-11-23T12:37:00.000Z
+url_pdf: https://www.cell.com/action/showPdf?pii=S2405-8440%2824%2914479-9
 ---
