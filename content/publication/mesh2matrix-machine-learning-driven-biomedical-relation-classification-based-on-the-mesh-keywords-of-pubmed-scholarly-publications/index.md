@@ -2,9 +2,8 @@
 title: "MeSH2Matrix: Machine learning-driven biomedical relation classification
   based on the MeSH keywords of PubMed scholarly publications"
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 abstract: Biomedical relation classification has been significantly improved by

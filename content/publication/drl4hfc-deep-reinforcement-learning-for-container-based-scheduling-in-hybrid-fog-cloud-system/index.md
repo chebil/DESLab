@@ -2,7 +2,7 @@
 title: "DRL4HFC: Deep Reinforcement Learning for Container-Based Scheduling in
   Hybrid Fog/Cloud System"
 publication_types:
-  - "1"
+  - paper-conference
 authors:
   - ameni-kallel-chaari
   - rekik

@@ -2,9 +2,8 @@
 title: "Letter to the Editor: FHIR RDF - Why the world needs structured
   electronic health records"
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: 10.1016/j.jbi.2022.104253

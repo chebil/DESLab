@@ -2,9 +2,8 @@
 title: Knowledge-Based Construction of Confusion Matrices for Multi-Label
   Classification Algorithms using Semantic Similarity Measures
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 doi: " https://doi.org/10.48550/arXiv.2011.00109"

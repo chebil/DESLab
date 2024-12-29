@@ -2,9 +2,8 @@
 title: Developing intuitive and explainable algorithms through inspiration from
   human physiology and computational biology
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: https://doi.org/10.1093/bib/bbab081

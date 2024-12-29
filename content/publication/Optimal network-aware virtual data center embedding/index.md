@@ -1,7 +1,7 @@
 ---
 title: Optimal network-aware virtual data center embedding
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - mahdi-khemakhem
 

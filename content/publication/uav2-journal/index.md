@@ -1,7 +1,7 @@
 ---
 title: Toward Optimal Periodic Crowd Tracking via Unmanned Aerial Vehicle
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - chebil
   - skander-htiouech

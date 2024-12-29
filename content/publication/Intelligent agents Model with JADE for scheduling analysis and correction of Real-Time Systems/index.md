@@ -1,7 +1,7 @@
 ---
 title: Intelligent agents Model with JADE for scheduling analysis and correction of Real-Time Systems
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - walid-karamti
 doi: https://doi.org/10.17762/ijcnis.v15i1.5762

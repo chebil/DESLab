@@ -1,7 +1,7 @@
 ---
 title: Detecting Anomalies in Network Communities Based on Structural and Attribute Deviation
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - walid-karamti
 doi: https://doi.org/10.3390/app122211791

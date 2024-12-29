@@ -1,7 +1,7 @@
 ---
 title: IoT Based Smart Monitoring of Patients with Acute Heart Failure
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - walid-karamti
 doi: https://doi.org/10.3390/s22072431

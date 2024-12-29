@@ -7,7 +7,6 @@ featured: false
 authors:
   - admin
   - medali
-  - turki
 tags:
   - research evaluation
   - bibliographic data

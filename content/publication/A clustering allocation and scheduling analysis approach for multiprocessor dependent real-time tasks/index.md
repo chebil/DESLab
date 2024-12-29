@@ -1,7 +1,7 @@
 ---
 title: A clustering allocation and scheduling analysis approach for multiprocessor dependent real-time tasks
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - walid-karamti
   - adel-mahfoudhi

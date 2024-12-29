@@ -3,9 +3,8 @@ title: "Preregistration: Comparing the use of Wikidata and Wikipedia by
   open-source software programmers on GitHub repositories"
 subtitle: ""
 publication_types:
-  - "1"
+  - paper-conference
 authors:
-  - turki
   - medali
   - admin
 abstract: >-

@@ -2,7 +2,7 @@
 title: "IoT‐fog‐cloud based architecture for smart systems: Prototypes of autism
   and COVID‐19 monitoring systems"
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - ameni-kallel-chaari
   - rekik

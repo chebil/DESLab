@@ -1,7 +1,7 @@
 ---
 title: Fraud Detection Using Large-scale Imbalance Dataset
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - boulbaba-ben-ammar
   - admin

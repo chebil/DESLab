@@ -2,9 +2,8 @@
 title: "Representing COVID-19 information in collaborative knowledge graphs: the
   case of Wikidata"
 publication_types:
-  - "2"
+  - article-journal
 authors:
-  - turki
   - medali
   - admin
 doi: " https://doi.org/10.3233/SW-210444"
