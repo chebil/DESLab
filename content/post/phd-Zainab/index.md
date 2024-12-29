@@ -4,7 +4,7 @@ date: 2024-12-28T07:00:52.658Z
 summary: " **Title:** Intelligent Data Augmentation Techniques Towards Multidomains Fraud Detection through Data Mining. 
 
 
-**Supervisors:** Dr. MMohamed Ben Aouicha & Dr. Boulbaba Ben Ammar
+**Supervisors:** Dr. Mohamed Ben Aouicha & Dr. Boulbaba Ben Ammar
 
 
 **Defense Date:** 28 December 2024 "
@@ -23,7 +23,7 @@ image:
 ---
 <div style="text-align: justify">
 <b>Title:</b> Intelligent Data Augmentation Techniques Towards Multidomains Fraud Detection through Data Mining. </br>
-<b>Supervisors:</b> Dr. MMohamed Ben Aouicha & Dr. Boulbaba Ben Ammar </br>
+<b>Supervisors:</b> Dr. Mohamed Ben Aouicha & Dr. Boulbaba Ben Ammar </br>
 <b>Defense Date:</b> 28 December 2024</br>
 
   </div>
