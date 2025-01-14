@@ -1,5 +1,5 @@
 ---
-title: University Habilitation defense of Dr. Mohamed Ali Hadj Taieb
+title: Dr. Mohamed Ali Hadj Taieb University Habilitation defense 
 date: 2025-01-11T10:00:52.658Z
 summary: " **Title:** Semantic integration and GNN for social data analytics under big data environment. 
 
