@@ -16,7 +16,7 @@ image:
 ---
 <div style="text-align: justify">
 <ul>
-<li> <b>Objectifs :</b> Cette formation vise à sensibiliser les enseignants universitaires aux différentes menaces informatiques et de fournir des recommandations afin de renforcer la sécurité de leurs activités.</li>
+<li> <b>Objectifs :</b> Ce workshop vise à sensibiliser les enseignants universitaires aux différentes menaces informatiques et de fournir des recommandations afin de renforcer la sécurité de leurs activités.</li>
 <li>
 <b>Contenu de la présentation  :</b> </li>
 <ul>
