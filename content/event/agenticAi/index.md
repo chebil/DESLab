@@ -13,7 +13,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-authors: walid-ayedi
+authors: walidayedi
   - 
 ---
 <div style="text-align: justify">
