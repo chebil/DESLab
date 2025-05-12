@@ -2,7 +2,7 @@
 title: Walid Ayedi
 role: Assistant professor
 authors:
-  - walidayedi
+  - walid-ayedi
 avatar_filename: avatar.png
 bio: Walid AYEDI received the Ph.D. degree in Computer Science from the National
   School of the Engineers of Sfax, Tunisia in November 2012. He is assistant

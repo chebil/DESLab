@@ -14,7 +14,7 @@ image:
   focal_point: Smart
   preview_only: false
 authors: 
-  - walidayedi
+  - walid-ayedi
 ---
 <div style="text-align: justify">
 A workshop will be organized by the Data Engineering and Semantics research unit at the Faculty of Sciences of Sfax. The training covers an introduction to Agentic AI and will be delivered by Walid Ayedi, a dedicated senior researcher at DES.</br>
