@@ -23,7 +23,7 @@ education:
     - course: Msc in Computer Science
       institution: university of valenciennes - france
     - course: BSc in Computer Science
-      institution: University of Sfax - tunisi
+      institution: University of Sfax - tunisia
 
 social:
   - icon: envelope
