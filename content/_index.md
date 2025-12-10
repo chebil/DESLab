@@ -57,7 +57,7 @@ sections:
         ![](/albums/partners/wikimedia.svg)  | ![](/albums/partners/virginia.png)| ![](/albums/partners/bern.png)| ![](/albums/partners/pretoria.png) | ![](/albums/partners/uned.jpg)| ![](/albums/partners/obuda.png)
         ![](/albums/partners/mir.jpg)| ![](/albums/partners/milan.jpg)| ![](/albums/partners/nui.jpg)| ![](/albums/partners/basque.png) | ![](/albums/partners/havre.png)| ![](/albums/partners/lis.png)
         ![](/albums/partners/world.png)  |![](/albums/partners/kaist.png)| ![](/albums/partners/minds.jpg)| ![](/albums/partners/UDE.svg)| ![](/albums/partners/fab.png)| ![](/albums/partners/tech.png)
-        ![](/albums/partners/intel.png)  |![](/albums/partners/phoenix.jpg)| ![](/albums/partners/sifast.svg)| ![](/albums/partners/jumia.jpg)| ![](/albums/partners/spark.png)| ![](/albums/partners/inel.png)
+        ![](/albums/partners/intel.png)  |![](/albums/partners/phoenix.jpg)| ![](/albums/partners/sifast.svg)| ![](/albums/partners/jumia.jpg)| ![](/albums/partners/spark.png)| ![](/albums/partners/inel.png)| ![](/albums/partners/diwan.jpg)
         
         
     design:
